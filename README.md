@@ -1,13 +1,13 @@
-## ✅ Merged PRs & Co-authored Mainline Commits（53 entries / 17 repos）
+## ✅ 已合并 PR（54 个 / 18 个项目）
 
 | Project | ★ | Merged |
 |---|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392.0k | 2<sup>co-authored</sup> |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392.0k | 2 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 158.8k | 8 |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.1k | 4 |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61.5k | 1 |
 | [labring/FastGPT](https://github.com/labring/FastGPT) | 29.9k | 1 |
-| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 1 |
+| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 2 |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26.8k | 1 |
 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 23.0k | 1 |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16.7k | 2 |
@@ -41,7 +41,8 @@
 |  | [#6719](https://github.com/bytedance/deer-flow/pull/6719) — fix(sofya): report a format error for a results list with no usable objects |
 | [litellm](https://github.com/BerriAI/litellm) | [#44800](https://github.com/BerriAI/litellm/pull/44800) — fix(anthropic): let /v1/messages mid-stream failures reach the proxy failure boundary |
 | [FastGPT](https://github.com/labring/FastGPT) | [#7924](https://github.com/labring/FastGPT/pull/7924) — fix(workflow): handle non-string values in the string-inclusion evaluator |
-| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | [#14563](https://github.com/microsoft/semantic-kernel/pull/14563) — fix(python): reject dot-segment remote paths in SessionsPythonTool.upload_file |
+| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | [#14733](https://github.com/microsoft/semantic-kernel/pull/14733) — fix(python): propagate connection-level errors from OpenAI RealtimeClient.run |
+|  | [#14563](https://github.com/microsoft/semantic-kernel/pull/14563) — fix(python): reject dot-segment remote paths in SessionsPythonTool.upload_file |
 | [haystack](https://github.com/deepset-ai/haystack) | [#13206](https://github.com/deepset-ai/haystack/pull/13206) — fix: support container metadata in document evaluators |
 | [MaxKB](https://github.com/1Panel-dev/MaxKB) | [#7311](https://github.com/1Panel-dev/MaxKB/pull/7311) — fix: split at full-width exclamation/question marks in smart_split_paragraph |
 | [DeepCode](https://github.com/HKUDS/DeepCode) | [#256](https://github.com/HKUDS/DeepCode/pull/256) — fix(tools): prune _SKIP_DIRS below the glob base, not the whole path |
