@@ -1,13 +1,14 @@
-## ✅ 已合并 PR（54 个 / 18 个项目）
+## ✅ 已合并 PR（57 个 / 19 个项目）
 
 | Project | ★ | Merged |
 |---|---|---|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392.0k | 2 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 158.8k | 8 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 158.8k | 10 |
 | [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.1k | 4 |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61.5k | 1 |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60.1k | 3 |
 | [labring/FastGPT](https://github.com/labring/FastGPT) | 29.9k | 1 |
-| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 2 |
+| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 1 |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26.8k | 1 |
 | [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 23.0k | 1 |
 | [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16.7k | 2 |
@@ -18,6 +19,7 @@
 | [crmne/ruby_llm](https://github.com/crmne/ruby_llm) | 4.5k | 2 |
 | [langroid/langroid](https://github.com/langroid/langroid) | 4.1k | 21 |
 | [modelscope/evalscope](https://github.com/modelscope/evalscope) | 3.6k | 2 |
+| [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) | 3.4k | 1 |
 | [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | 2.7k | 1 |
 | [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 1.2k | 1 |
 
@@ -27,7 +29,9 @@
 |---|---|
 | [openclaw](https://github.com/openclaw/openclaw) | [#173387](https://github.com/openclaw/openclaw/pull/173387) — fix(agents): contain failures publishing saved transcript updates<br>↳ Adopted by maintainer, rewritten and merged in [#174947](https://github.com/openclaw/openclaw/pull/174947) — commit [`4513e9e`](https://github.com/openclaw/openclaw/commit/4513e9e09633a740f58b4ccf8802597968868c47) credits me as co-author |
 |  | [#173163](https://github.com/openclaw/openclaw/pull/173163) — fix(cron): preserve failure alerts refused before delivery<br>↳ Adopted by maintainer, rewritten and merged in [#173347](https://github.com/openclaw/openclaw/pull/173347) — commit [`ef97167`](https://github.com/openclaw/openclaw/commit/ef97167c3723c2bab32e7c703a9db99894946138) credits me as co-author |
-| [dify](https://github.com/langgenius/dify) | [#44120](https://github.com/langgenius/dify/pull/44120) — fix(nodejs-client): replace stale user fields in native upload forms |
+| [dify](https://github.com/langgenius/dify) | [#44677](https://github.com/langgenius/dify/pull/44677) — fix(files): normalize remote file Content-Type media types |
+|  | [#44569](https://github.com/langgenius/dify/pull/44569) — fix(php-sdk): preserve custom API base URL paths |
+|  | [#44120](https://github.com/langgenius/dify/pull/44120) — fix(nodejs-client): replace stale user fields in native upload forms |
 |  | [#44097](https://github.com/langgenius/dify/pull/44097) — fix(nodejs-client): allow empty keyword filters in list APIs |
 |  | [#44090](https://github.com/langgenius/dify/pull/44090) — fix(nodejs-client): override default headers case-insensitively |
 |  | [#44085](https://github.com/langgenius/dify/pull/44085) — fix(dify-agent): treat a confirmed-missing Home Snapshot as a success on Enterprise delete |
@@ -40,9 +44,11 @@
 |  | [#6779](https://github.com/bytedance/deer-flow/pull/6779) — fix(serper): report a format error for results with no usable objects |
 |  | [#6719](https://github.com/bytedance/deer-flow/pull/6719) — fix(sofya): report a format error for a results list with no usable objects |
 | [litellm](https://github.com/BerriAI/litellm) | [#44800](https://github.com/BerriAI/litellm/pull/44800) — fix(anthropic): let /v1/messages mid-stream failures reach the proxy failure boundary |
+| [crewAI](https://github.com/crewAIInc/crewAI) | [#8173](https://github.com/crewAIInc/crewAI/pull/8173) — fix(logging): preserve JSON logs on serialization errors |
+|  | [#8171](https://github.com/crewAIInc/crewAI/pull/8171) — fix(usage): count dictionary usage in token callbacks |
+|  | [#8169](https://github.com/crewAIInc/crewAI/pull/8169) — fix(skills): skip non-UTF-8 cached skill metadata |
 | [FastGPT](https://github.com/labring/FastGPT) | [#7924](https://github.com/labring/FastGPT/pull/7924) — fix(workflow): handle non-string values in the string-inclusion evaluator |
-| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | [#14733](https://github.com/microsoft/semantic-kernel/pull/14733) — fix(python): propagate connection-level errors from OpenAI RealtimeClient.run |
-|  | [#14563](https://github.com/microsoft/semantic-kernel/pull/14563) — fix(python): reject dot-segment remote paths in SessionsPythonTool.upload_file |
+| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | [#14563](https://github.com/microsoft/semantic-kernel/pull/14563) — fix(python): reject dot-segment remote paths in SessionsPythonTool.upload_file |
 | [haystack](https://github.com/deepset-ai/haystack) | [#13206](https://github.com/deepset-ai/haystack/pull/13206) — fix: support container metadata in document evaluators |
 | [MaxKB](https://github.com/1Panel-dev/MaxKB) | [#7311](https://github.com/1Panel-dev/MaxKB/pull/7311) — fix: split at full-width exclamation/question marks in smart_split_paragraph |
 | [DeepCode](https://github.com/HKUDS/DeepCode) | [#256](https://github.com/HKUDS/DeepCode/pull/256) — fix(tools): prune _SKIP_DIRS below the glob base, not the whole path |
@@ -77,5 +83,6 @@
 |  | [#1215](https://github.com/langroid/langroid/pull/1215) — fix(llm): handle content-filtered chunks in the async stream path |
 | [evalscope](https://github.com/modelscope/evalscope) | [#1833](https://github.com/modelscope/evalscope/pull/1833) — fix(messages): absolutise local audio and video paths in markdown output |
 |  | [#1832](https://github.com/modelscope/evalscope/pull/1832) — fix(multi-choice): accept a full-width comma between unbracketed answer labels |
+| [beeai-framework](https://github.com/i-am-bee/beeai-framework) | [#1791](https://github.com/i-am-bee/beeai-framework/pull/1791) — fix(litellm): forward stop_sequences to the provider as stop |
 | [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [#2345](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2345) — fix(observability): resolve the OpenInference span kind from attribute context |
 | [AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | [#20](https://github.com/ant-research/AntOmniEvo/pull/20) — fix(proposer): detect degenerate Claude Code sessions before rollout |
