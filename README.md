@@ -1,12 +1,13 @@
-## ✅ 已合并 PR（57 个 / 19 个项目）
+## ✅ 已合并 PR（59 个 / 20 个项目）
 
 | Project | ★ | Merged |
 |---|---|---|
 | [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392.0k | 2 |
 | [langgenius/dify](https://github.com/langgenius/dify) | 158.8k | 10 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.1k | 4 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.1k | 5 |
 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61.5k | 1 |
 | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60.1k | 3 |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 35.6k | 1 |
 | [labring/FastGPT](https://github.com/labring/FastGPT) | 29.9k | 1 |
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 1 |
 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26.8k | 1 |
@@ -39,7 +40,8 @@
 |  | [#44083](https://github.com/langgenius/dify/pull/44083) — fix(nodejs-client): preserve SSE field value whitespace |
 |  | [#44017](https://github.com/langgenius/dify/pull/44017) — fix(knowledge): only batch-enable segments whose indexing completed |
 |  | [#44014](https://github.com/langgenius/dify/pull/44014) — fix(dify-agent): verify E2B binding Home as well as Workspace on acquire |
-| [deer-flow](https://github.com/bytedance/deer-flow) | [#7011](https://github.com/bytedance/deer-flow/pull/7011) — docs(docker): document the locked PyPI index requirement |
+| [deer-flow](https://github.com/bytedance/deer-flow) | [#7049](https://github.com/bytedance/deer-flow/pull/7049) — fix(skills): parse optimizer metadata as YAML |
+|  | [#7011](https://github.com/bytedance/deer-flow/pull/7011) — docs(docker): document the locked PyPI index requirement |
 |  | [#6966](https://github.com/bytedance/deer-flow/pull/6966) — refactor(community): fold serper onto the shared max_results owner |
 |  | [#6779](https://github.com/bytedance/deer-flow/pull/6779) — fix(serper): report a format error for results with no usable objects |
 |  | [#6719](https://github.com/bytedance/deer-flow/pull/6719) — fix(sofya): report a format error for a results list with no usable objects |
@@ -48,6 +50,7 @@
 |  | [#8171](https://github.com/crewAIInc/crewAI/pull/8171) — fix(usage): count dictionary usage in token callbacks |
 |  | [#8169](https://github.com/crewAIInc/crewAI/pull/8169) — fix(skills): skip non-UTF-8 cached skill metadata |
 | [FastGPT](https://github.com/labring/FastGPT) | [#7924](https://github.com/labring/FastGPT/pull/7924) — fix(workflow): handle non-string values in the string-inclusion evaluator |
+| [WeKnora](https://github.com/Tencent/WeKnora) | [#3996](https://github.com/Tencent/WeKnora/pull/3996) — fix(repository): SearchUsers 兼容 SQLite 方言并转义 LIKE 通配符 |
 | [semantic-kernel](https://github.com/microsoft/semantic-kernel) | [#14563](https://github.com/microsoft/semantic-kernel/pull/14563) — fix(python): reject dot-segment remote paths in SessionsPythonTool.upload_file |
 | [haystack](https://github.com/deepset-ai/haystack) | [#13206](https://github.com/deepset-ai/haystack/pull/13206) — fix: support container metadata in document evaluators |
 | [MaxKB](https://github.com/1Panel-dev/MaxKB) | [#7311](https://github.com/1Panel-dev/MaxKB/pull/7311) — fix: split at full-width exclamation/question marks in smart_split_paragraph |
