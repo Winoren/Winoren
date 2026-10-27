@@ -1,91 +1,111 @@
-## ✅ 已合并 PR（59 个 / 20 个项目）
+<div align="center">
 
-| Project | ★ | Merged |
-|---|---|---|
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 392.0k | 2 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 158.8k | 10 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.1k | 5 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 61.5k | 1 |
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60.1k | 3 |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 35.6k | 1 |
-| [labring/FastGPT](https://github.com/labring/FastGPT) | 29.9k | 1 |
-| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 1 |
-| [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 26.8k | 1 |
-| [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) | 23.0k | 1 |
-| [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) | 16.7k | 2 |
-| [neuml/txtai](https://github.com/neuml/txtai) | 13.0k | 1 |
-| [MervinPraison/PraisonAI](https://github.com/MervinPraison/PraisonAI) | 9.3k | 2 |
-| [gpustack/gpustack](https://github.com/gpustack/gpustack) | 5.8k | 1 |
-| [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | 5.3k | 1 |
-| [crmne/ruby_llm](https://github.com/crmne/ruby_llm) | 4.5k | 2 |
-| [langroid/langroid](https://github.com/langroid/langroid) | 4.1k | 21 |
-| [modelscope/evalscope](https://github.com/modelscope/evalscope) | 3.6k | 2 |
-| [i-am-bee/beeai-framework](https://github.com/i-am-bee/beeai-framework) | 3.4k | 1 |
-| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | 2.7k | 1 |
-| [ant-research/AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | 1.2k | 1 |
+# 董思俊 · Winoren
+
+**AI Agent Developer · Backend Engineering**
+
+关注 Agent Runtime、MCP、上下文工程与可评测的业务工作流
+
+[GitHub](https://github.com/Winoren) · [开源贡献](CONTRIBUTIONS.md) · [邮件联系](mailto:d2572973337@qq.com)
+
+</div>
 
 ---
 
-| Project | Merged PR |
-|---|---|
-| [openclaw](https://github.com/openclaw/openclaw) | [#173387](https://github.com/openclaw/openclaw/pull/173387) — fix(agents): contain failures publishing saved transcript updates<br>↳ Adopted by maintainer, rewritten and merged in [#174947](https://github.com/openclaw/openclaw/pull/174947) — commit [`4513e9e`](https://github.com/openclaw/openclaw/commit/4513e9e09633a740f58b4ccf8802597968868c47) credits me as co-author |
-|  | [#173163](https://github.com/openclaw/openclaw/pull/173163) — fix(cron): preserve failure alerts refused before delivery<br>↳ Adopted by maintainer, rewritten and merged in [#173347](https://github.com/openclaw/openclaw/pull/173347) — commit [`ef97167`](https://github.com/openclaw/openclaw/commit/ef97167c3723c2bab32e7c703a9db99894946138) credits me as co-author |
-| [dify](https://github.com/langgenius/dify) | [#44677](https://github.com/langgenius/dify/pull/44677) — fix(files): normalize remote file Content-Type media types |
-|  | [#44569](https://github.com/langgenius/dify/pull/44569) — fix(php-sdk): preserve custom API base URL paths |
-|  | [#44120](https://github.com/langgenius/dify/pull/44120) — fix(nodejs-client): replace stale user fields in native upload forms |
-|  | [#44097](https://github.com/langgenius/dify/pull/44097) — fix(nodejs-client): allow empty keyword filters in list APIs |
-|  | [#44090](https://github.com/langgenius/dify/pull/44090) — fix(nodejs-client): override default headers case-insensitively |
-|  | [#44085](https://github.com/langgenius/dify/pull/44085) — fix(dify-agent): treat a confirmed-missing Home Snapshot as a success on Enterprise delete |
-|  | [#44084](https://github.com/langgenius/dify/pull/44084) — fix(api): stage hit-testing query log with flush instead of committing caller session |
-|  | [#44083](https://github.com/langgenius/dify/pull/44083) — fix(nodejs-client): preserve SSE field value whitespace |
-|  | [#44017](https://github.com/langgenius/dify/pull/44017) — fix(knowledge): only batch-enable segments whose indexing completed |
-|  | [#44014](https://github.com/langgenius/dify/pull/44014) — fix(dify-agent): verify E2B binding Home as well as Workspace on acquire |
-| [deer-flow](https://github.com/bytedance/deer-flow) | [#7049](https://github.com/bytedance/deer-flow/pull/7049) — fix(skills): parse optimizer metadata as YAML |
-|  | [#7011](https://github.com/bytedance/deer-flow/pull/7011) — docs(docker): document the locked PyPI index requirement |
-|  | [#6966](https://github.com/bytedance/deer-flow/pull/6966) — refactor(community): fold serper onto the shared max_results owner |
-|  | [#6779](https://github.com/bytedance/deer-flow/pull/6779) — fix(serper): report a format error for results with no usable objects |
-|  | [#6719](https://github.com/bytedance/deer-flow/pull/6719) — fix(sofya): report a format error for a results list with no usable objects |
-| [litellm](https://github.com/BerriAI/litellm) | [#44800](https://github.com/BerriAI/litellm/pull/44800) — fix(anthropic): let /v1/messages mid-stream failures reach the proxy failure boundary |
-| [crewAI](https://github.com/crewAIInc/crewAI) | [#8173](https://github.com/crewAIInc/crewAI/pull/8173) — fix(logging): preserve JSON logs on serialization errors |
-|  | [#8171](https://github.com/crewAIInc/crewAI/pull/8171) — fix(usage): count dictionary usage in token callbacks |
-|  | [#8169](https://github.com/crewAIInc/crewAI/pull/8169) — fix(skills): skip non-UTF-8 cached skill metadata |
-| [FastGPT](https://github.com/labring/FastGPT) | [#7924](https://github.com/labring/FastGPT/pull/7924) — fix(workflow): handle non-string values in the string-inclusion evaluator |
-| [WeKnora](https://github.com/Tencent/WeKnora) | [#3996](https://github.com/Tencent/WeKnora/pull/3996) — fix(repository): SearchUsers 兼容 SQLite 方言并转义 LIKE 通配符 |
-| [semantic-kernel](https://github.com/microsoft/semantic-kernel) | [#14563](https://github.com/microsoft/semantic-kernel/pull/14563) — fix(python): reject dot-segment remote paths in SessionsPythonTool.upload_file |
-| [haystack](https://github.com/deepset-ai/haystack) | [#13206](https://github.com/deepset-ai/haystack/pull/13206) — fix: support container metadata in document evaluators |
-| [MaxKB](https://github.com/1Panel-dev/MaxKB) | [#7311](https://github.com/1Panel-dev/MaxKB/pull/7311) — fix: split at full-width exclamation/question marks in smart_split_paragraph |
-| [DeepCode](https://github.com/HKUDS/DeepCode) | [#256](https://github.com/HKUDS/DeepCode/pull/256) — fix(tools): prune _SKIP_DIRS below the glob base, not the whole path |
-|  | [#255](https://github.com/HKUDS/DeepCode/pull/255) — fix(security): normalize the program path in the destructive-command screen |
-| [txtai](https://github.com/neuml/txtai) | [#1362](https://github.com/neuml/txtai/pull/1362) — Honor an empty allow list in the bash agent tool |
-| [PraisonAI](https://github.com/MervinPraison/PraisonAI) | [#5732](https://github.com/MervinPraison/PraisonAI/pull/5732) — fix(memory): raise on unsupported URL scheme in array form instead of silently using the file backend |
-|  | [#5731](https://github.com/MervinPraison/PraisonAI/pull/5731) — fix: normalise preset name lookup for array-form parameters |
-| [gpustack](https://github.com/gpustack/gpustack) | [#6391](https://github.com/gpustack/gpustack/pull/6391) — fix(schemas): validate cache provider card icons |
-| [FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | [#66](https://github.com/ApodexAI/FrontierAgent/pull/66) — fix(agent-team): let gate ② track the configurable gate ① for bash / run_python_code |
-| [ruby_llm](https://github.com/crmne/ruby_llm) | [#1052](https://github.com/crmne/ruby_llm/pull/1052) — Check Mistral batch embedding row positions before pairing vectors with inputs |
-|  | [#1051](https://github.com/crmne/ruby_llm/pull/1051) — Check embedding batch row positions before pairing vectors with inputs |
-| [langroid](https://github.com/langroid/langroid) | [#1253](https://github.com/langroid/langroid/pull/1253) — fix(relevance_extractor_agent): send the extraction instructions in the async path too |
-|  | [#1250](https://github.com/langroid/langroid/pull/1250) — fix(chat_agent): route the async strict-recovery retry through the async twin |
-|  | [#1245](https://github.com/langroid/langroid/pull/1245) — fix(chat_agent): skip strict recovery in the async path when no tool is usable |
-|  | [#1244](https://github.com/langroid/langroid/pull/1244) — fix(doc_chat_agent): return NO_ANSWER for an empty query in the async path |
-|  | [#1243](https://github.com/langroid/langroid/pull/1243) — fix(openai_gpt): guard a null `choices` chunk in the async stream path |
-|  | [#1242](https://github.com/langroid/langroid/pull/1242) — fix(repo_loader): report a failed clone as None, not as the target path |
-|  | [#1241](https://github.com/langroid/langroid/pull/1241) — fix(pinecone): raise when add_documents fails instead of only logging |
-|  | [#1238](https://github.com/langroid/langroid/pull/1238) — fix: allow special-token literals in Parser.truncate_tokens |
-|  | [#1232](https://github.com/langroid/langroid/pull/1232) — fix: match literal types in Agent output extraction |
-|  | [#1231](https://github.com/langroid/langroid/pull/1231) — fix: treat empty Redis key deletion as a no-op |
-|  | [#1230](https://github.com/langroid/langroid/pull/1230) — fix: raise actionable errors for missing document backends |
-|  | [#1229](https://github.com/langroid/langroid/pull/1229) — fix: retain numbered segment paragraph continuations |
-|  | [#1228](https://github.com/langroid/langroid/pull/1228) — fix: preserve text across BPE chunk boundaries |
-|  | [#1227](https://github.com/langroid/langroid/pull/1227) — fix: honor explicit embedding organization configuration |
-|  | [#1226](https://github.com/langroid/langroid/pull/1226) — fix: deduplicate PDF split boundaries |
-|  | [#1225](https://github.com/langroid/langroid/pull/1225) — fix: preserve whitespace in line-limited document reads |
-|  | [#1223](https://github.com/langroid/langroid/pull/1223) — fix: preserve duplicate columns when loading tabular data |
-|  | [#1221](https://github.com/langroid/langroid/pull/1221) — fix: honor zero overlap in Markdown chunking |
-|  | [#1220](https://github.com/langroid/langroid/pull/1220) — fix: preserve Markdown hierarchy when heading levels are skipped |
-|  | [#1218](https://github.com/langroid/langroid/pull/1218) — fix: handle UTF-8 BOMs when loading tabular data |
-|  | [#1215](https://github.com/langroid/langroid/pull/1215) — fix(llm): handle content-filtered chunks in the async stream path |
-| [evalscope](https://github.com/modelscope/evalscope) | [#1833](https://github.com/modelscope/evalscope/pull/1833) — fix(messages): absolutise local audio and video paths in markdown output |
-|  | [#1832](https://github.com/modelscope/evalscope/pull/1832) — fix(multi-choice): accept a full-width comma between unbracketed answer labels |
-| [beeai-framework](https://github.com/i-am-bee/beeai-framework) | [#1791](https://github.com/i-am-bee/beeai-framework/pull/1791) — fix(litellm): forward stop_sequences to the provider as stop |
-| [NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | [#2345](https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2345) — fix(observability): resolve the OpenInference span kind from attribute context |
-| [AntOmniEvo](https://github.com/ant-research/AntOmniEvo) | [#20](https://github.com/ant-research/AntOmniEvo/pull/20) — fix(proposer): detect degenerate Claude Code sessions before rollout |
+### ABOUT ME
+
+软件工程本科在读，关注如何让 AI Agent 在真实业务中可靠地使用数据和工具。
+
+我的兴趣覆盖 **Tool Calling、Agent Harness、RAG、长期记忆、权限控制与 Eval**。我喜欢从具体业务问题出发，思考如何让 Agent 的行为可追踪、可验证，并在关键节点由人做决定。
+
+- 🎓 湖北第二师范学院 · 软件工程 · 2027 届
+- 🏢 实习经历：中国电信、美的集团
+- 🏆 第十五届蓝桥杯软件赛全国一等奖、睿抗编程技能竞赛全国二等奖
+- 🌱 持续参与 Agent、LLM 与 RAG 相关开源项目
+
+---
+
+### OPEN SOURCE
+
+**59 个 PR 已合并 · 20 个开源仓库**
+
+参与 Agent 框架与 LLM 应用生态的缺陷修复，关注工具调用、流式响应、知识检索、数据处理与运行可靠性。
+
+| 项目 | 贡献 |
+| :--- | :--- |
+| [langroid/langroid](https://github.com/langroid/langroid) | 21 个 PR 已合并 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 10 个 PR 已合并 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 5 个 PR 已合并 |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 3 个 PR 已合并 |
+| [NVIDIA/NeMo-Agent-Toolkit](https://github.com/NVIDIA/NeMo-Agent-Toolkit) | 1 个 PR 已合并 |
+| [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 1 个 PR 已合并 |
+
+**一些具体工作**
+
+- **Dify**：修复 Node.js SDK 中 SSE 字段空白处理、请求头大小写合并等问题，也参与知识段索引状态与服务端事务边界问题的修复。
+- **deer-flow**：修复 Skills 元数据解析和搜索结果处理中的边界问题。
+- **Langroid**：修复 Agent 异步执行、文档切分、Embedding 配置和工具结果处理等问题。
+
+[查看贡献明细 →](CONTRIBUTIONS.md) · [查看 GitHub 已合并 PR →](https://github.com/pulls?q=is%3Apr+author%3AWinoren+is%3Amerged)
+
+<sub>统计为 2026 年 10 月的快照，后续可按 GitHub 记录更新。</sub>
+
+---
+
+### EXPERIENCE
+
+**美的集团 · 实习**　`2026.03 — 2026.10`
+
+围绕制造质量管理场景，探索将 Agent 接入检验数据和不合格品处置流程。
+
+- 将检验标准、报检单和供应商主数据封装为只读 MCP 工具，供 Agent 查询。
+- 在工具执行前设置权限拦截和人工确认，针对重大质量决策衔接审批流程。
+- 按报检单装配检验标准、历史案例等上下文，支持检验研判与 NCR 处置建议。
+
+**中国电信 · 实习**
+
+CMP 相关项目经历。
+
+---
+
+### SELECTED PROJECTS
+
+#### QMS · 质量管理与智能辅助
+
+面向质量检验和不合格品处置场景的业务系统与 Agent 实践。
+
+- **MCP 数据接入**：以适配器封装多类质量数据，供 Agent 按业务场景查询。
+- **上下文装配**：聚合报检单、标准条款和历史 NCR 案例，按 token 预算组织输入。
+- **受控处置流程**：串联缺陷查询、相似案例检索和处置草稿生成，提交环节保留人工决策。
+
+`MCP` `Tool Calling` `Context Engineering` `Human-in-the-loop`
+
+#### AI Native CRM · 客户经营 Agent 平台
+
+面向客户会话、商机和知识库的 Agent 工作台，将业务数据、工具调用与执行过程连接起来。
+
+- **CRM 工具与权限**：通过 MCP、Schema 和角色范围约束工具调用，区分查询、更新和客户外发等操作。
+- **知识与记忆**：结合 CRM 确认事实、知识检索和记忆服务，为客户调查提供上下文。
+- **执行与评测**：关注任务恢复、幂等、工具观察、语义评测与业务结果核验。
+
+`TypeScript` `Next.js` `MCP` `Supabase` `Mem0` `Langfuse`
+
+---
+
+### TECH STACK
+
+| 领域 | 技术与关注点 |
+| :--- | :--- |
+| **AI Agent** | Agent Runtime、Harness、Tool Calling、MCP、多 Agent 协作 |
+| **知识与记忆** | RAG、上下文工程、记忆分层、向量检索 |
+| **可靠性** | 权限控制、人工审批、事件追踪、幂等与故障恢复 |
+| **评测与观测** | Agent Eval、语义评测、Langfuse、回归验证 |
+| **语言与工程** | TypeScript、Python、JavaScript、Java、SQL、Git、Docker、Linux |
+
+---
+
+<div align="center">
+
+**把模型能力连接到真实业务，让每一次行动都有依据。**
+
+</div>
