@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Split overview rows so only the PR count is a native GitHub link."""
+"""Link project icons and names to repositories, and PR counts to details."""
 from pathlib import Path
 from html import escape
 import json,re
@@ -39,7 +39,7 @@ def overview(source,count):
     for i,repo in enumerate(STATS['repos'][:count]):
         stem=f'overview-row-{i+1:02}'
         url='https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#'+anchor(repo['name'])
-        row=picture(stem+'-name',repo['name'],'67.5%')
+        row=f'<a href="https://github.com/{repo["name"]}" title="打开 {escape(repo["name"],quote=True)} 项目仓库">'+picture(stem+'-name',repo['name'],'67.5%')+'</a>'
         row+=f'<a href="{url}" title="查看 {escape(repo["name"],quote=True)} 的 PR 明细">'+picture(stem+'-count',f"查看 {repo['count'] or repo['adopted']} 个 PR",'14.5%')+'</a>'
         row+=picture(stem+'-stars','Star 数','17.9%')
         rows.append('<div>'+row+'</div>')
