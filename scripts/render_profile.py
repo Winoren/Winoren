@@ -48,13 +48,16 @@ first = min(merged) if merged else NOW
 span = max(1, (NOW-first).total_seconds())
 
 for theme, c in PALETTES.items():
-    hero = start(260, 'Winoren · Agent 开发 · 后端工程')
+    hero = start(330, 'Winoren · Agent 开发 · 后端工程 · 获奖经历')
     label(hero, 'AGENT DEVELOPER · BACKEND ENGINEERING', c)
     text(hero, 38, 128, 'Winoren', c['fg'], 48, 700)
     hero.append(f'<rect x="256" y="92" width="12" height="43" rx="2" fill="{c["accent"]}" opacity="0.45"/>')
     text(hero, 40, 173, '探索业务 Agent，也持续向 Dify、deer-flow 等 AI 开源项目贡献代码。', c['secondary'], 15.5)
     text(hero, 40, 204, '2027 届软件工程本科 · Agent Harness / MCP / 上下文工程 / Eval', c['muted'], 13)
     text(hero, 40, 231, '实习经历：中国电信 · 美的集团', c['muted'], 13)
+    text(hero, 40, 273, '获奖经历', c['muted'], 13)
+    text(hero, 118, 273, '第十五届蓝桥杯大赛软件赛全国一等奖', c['secondary'], 14, 500)
+    text(hero, 118, 301, '睿抗（RAICOM）编程技能竞赛全国二等奖', c['secondary'], 14, 500)
     hero.append('</svg>')
     (ROOT/f'assets/hero-{theme}.svg').write_text('\n'.join(hero)+'\n')
 
