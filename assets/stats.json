@@ -1,0 +1,495 @@
+{
+  "total": 85,
+  "repo_count": 20,
+  "repos": [
+    {
+      "name": "openclaw/openclaw",
+      "stars": 393419,
+      "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
+      "count": 0,
+      "adopted": 2
+    },
+    {
+      "name": "langgenius/dify",
+      "stars": 159976,
+      "avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
+      "count": 34,
+      "adopted": 0
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "stars": 84710,
+      "avatar": "https://avatars.githubusercontent.com/u/4158466?v=4",
+      "count": 7,
+      "adopted": 0
+    },
+    {
+      "name": "BerriAI/litellm",
+      "stars": 62358,
+      "avatar": "https://avatars.githubusercontent.com/u/121462774?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "crewAIInc/crewAI",
+      "stars": 60282,
+      "avatar": "https://avatars.githubusercontent.com/u/170677839?v=4",
+      "count": 3,
+      "adopted": 0
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "stars": 36004,
+      "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "labring/FastGPT",
+      "stars": 29947,
+      "avatar": "https://avatars.githubusercontent.com/u/102226726?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "microsoft/semantic-kernel",
+      "stars": 28719,
+      "avatar": "https://avatars.githubusercontent.com/u/6154722?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "deepset-ai/haystack",
+      "stars": 26881,
+      "avatar": "https://avatars.githubusercontent.com/u/51827949?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "1Panel-dev/MaxKB",
+      "stars": 23079,
+      "avatar": "https://avatars.githubusercontent.com/u/109613420?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "HKUDS/DeepCode",
+      "stars": 16772,
+      "avatar": "https://avatars.githubusercontent.com/u/118165258?v=4",
+      "count": 2,
+      "adopted": 0
+    },
+    {
+      "name": "neuml/txtai",
+      "stars": 13047,
+      "avatar": "https://avatars.githubusercontent.com/u/59890304?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "MervinPraison/PraisonAI",
+      "stars": 9309,
+      "avatar": "https://avatars.githubusercontent.com/u/454862?v=4",
+      "count": 2,
+      "adopted": 0
+    },
+    {
+      "name": "gpustack/gpustack",
+      "stars": 5930,
+      "avatar": "https://avatars.githubusercontent.com/u/169020824?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "ApodexAI/FrontierAgent",
+      "stars": 5418,
+      "avatar": "https://avatars.githubusercontent.com/u/276468590?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "crmne/ruby_llm",
+      "stars": 4489,
+      "avatar": "https://avatars.githubusercontent.com/u/106617?v=4",
+      "count": 2,
+      "adopted": 0
+    },
+    {
+      "name": "langroid/langroid",
+      "stars": 4122,
+      "avatar": "https://avatars.githubusercontent.com/u/130325191?v=4",
+      "count": 21,
+      "adopted": 0
+    },
+    {
+      "name": "modelscope/evalscope",
+      "stars": 3614,
+      "avatar": "https://avatars.githubusercontent.com/u/109945100?v=4",
+      "count": 2,
+      "adopted": 0
+    },
+    {
+      "name": "i-am-bee/beeai-framework",
+      "stars": 3448,
+      "avatar": "https://avatars.githubusercontent.com/u/178592583?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "NVIDIA/NeMo-Agent-Toolkit",
+      "stars": 2690,
+      "avatar": "https://avatars.githubusercontent.com/u/1728152?v=4",
+      "count": 1,
+      "adopted": 0
+    },
+    {
+      "name": "ant-research/AntOmniEvo",
+      "stars": 1219,
+      "avatar": "https://avatars.githubusercontent.com/u/120770412?v=4",
+      "count": 1,
+      "adopted": 0
+    }
+  ],
+  "prs": [
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44993",
+      "merged_at": "2026-10-29T18:28:45Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44986",
+      "merged_at": "2026-10-28T15:37:28Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44981",
+      "merged_at": "2026-10-28T14:24:33Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44980",
+      "merged_at": "2026-10-28T13:07:12Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44953",
+      "merged_at": "2026-10-29T11:26:13Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7642",
+      "merged_at": "2026-10-30T00:50:37Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44905",
+      "merged_at": "2026-10-30T06:12:00Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44903",
+      "merged_at": "2026-10-30T06:12:24Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44893",
+      "merged_at": "2026-10-30T06:12:24Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44838",
+      "merged_at": "2026-10-30T05:53:34Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44830",
+      "merged_at": "2026-10-30T05:53:55Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44788",
+      "merged_at": "2026-10-30T05:08:48Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44715",
+      "merged_at": "2026-10-30T05:08:48Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44679",
+      "merged_at": "2026-10-30T04:32:36Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44677",
+      "merged_at": "2026-10-24T02:00:09Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44675",
+      "merged_at": "2026-10-30T04:32:37Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44659",
+      "merged_at": "2026-10-30T05:53:55Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44652",
+      "merged_at": "2026-10-30T05:09:20Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44648",
+      "merged_at": "2026-10-30T05:06:43Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44644",
+      "merged_at": "2026-10-30T05:27:04Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44620",
+      "merged_at": "2026-10-30T05:53:55Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44569",
+      "merged_at": "2026-10-23T03:48:59Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7049",
+      "merged_at": "2026-10-27T06:44:27Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7043",
+      "merged_at": "2026-10-28T03:37:58Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44280",
+      "merged_at": "2026-10-30T05:02:24Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44273",
+      "merged_at": "2026-10-30T05:02:01Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44271",
+      "merged_at": "2026-10-30T05:53:34Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44265",
+      "merged_at": "2026-10-30T05:06:43Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44263",
+      "merged_at": "2026-10-30T05:06:43Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/7011",
+      "merged_at": "2026-10-18T00:27:22Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/6966",
+      "merged_at": "2026-10-16T00:57:17Z"
+    },
+    {
+      "html_url": "https://github.com/NVIDIA/NeMo-Agent-Toolkit/pull/2345",
+      "merged_at": "2026-10-15T21:43:47Z"
+    },
+    {
+      "html_url": "https://github.com/i-am-bee/beeai-framework/pull/1791",
+      "merged_at": "2026-10-19T12:34:25Z"
+    },
+    {
+      "html_url": "https://github.com/crewAIInc/crewAI/pull/8173",
+      "merged_at": "2026-10-23T14:15:40Z"
+    },
+    {
+      "html_url": "https://github.com/crewAIInc/crewAI/pull/8171",
+      "merged_at": "2026-10-23T14:09:43Z"
+    },
+    {
+      "html_url": "https://github.com/crewAIInc/crewAI/pull/8169",
+      "merged_at": "2026-10-23T14:03:59Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44120",
+      "merged_at": "2026-10-14T21:37:28Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44097",
+      "merged_at": "2026-10-14T21:37:09Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44090",
+      "merged_at": "2026-10-14T21:36:52Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44085",
+      "merged_at": "2026-10-14T21:36:34Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44084",
+      "merged_at": "2026-10-14T21:36:15Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44083",
+      "merged_at": "2026-10-14T21:35:55Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44017",
+      "merged_at": "2026-10-14T21:34:51Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44014",
+      "merged_at": "2026-10-14T07:51:50Z"
+    },
+    {
+      "html_url": "https://github.com/1Panel-dev/MaxKB/pull/7311",
+      "merged_at": "2026-10-15T08:18:39Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1253",
+      "merged_at": "2026-10-14T12:08:17Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1250",
+      "merged_at": "2026-10-13T11:04:28Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1245",
+      "merged_at": "2026-10-13T11:04:07Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1244",
+      "merged_at": "2026-10-13T11:04:00Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1243",
+      "merged_at": "2026-10-13T11:03:53Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1242",
+      "merged_at": "2026-10-13T11:03:46Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1241",
+      "merged_at": "2026-10-13T11:03:38Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/6779",
+      "merged_at": "2026-10-15T03:37:59Z"
+    },
+    {
+      "html_url": "https://github.com/bytedance/deer-flow/pull/6719",
+      "merged_at": "2026-10-12T13:00:25Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1238",
+      "merged_at": "2026-10-12T16:01:35Z"
+    },
+    {
+      "html_url": "https://github.com/ApodexAI/FrontierAgent/pull/66",
+      "merged_at": "2026-10-13T01:38:35Z"
+    },
+    {
+      "html_url": "https://github.com/ant-research/AntOmniEvo/pull/20",
+      "merged_at": "2026-10-12T15:42:23Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1232",
+      "merged_at": "2026-10-11T11:47:30Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1231",
+      "merged_at": "2026-10-11T11:47:27Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1230",
+      "merged_at": "2026-10-11T11:47:24Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1229",
+      "merged_at": "2026-10-11T11:47:21Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1228",
+      "merged_at": "2026-10-11T11:47:18Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1227",
+      "merged_at": "2026-10-11T11:47:15Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1226",
+      "merged_at": "2026-10-11T11:47:11Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1225",
+      "merged_at": "2026-10-11T17:52:41Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1223",
+      "merged_at": "2026-10-12T16:01:12Z"
+    },
+    {
+      "html_url": "https://github.com/deepset-ai/haystack/pull/13206",
+      "merged_at": "2026-10-16T09:06:16Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1221",
+      "merged_at": "2026-10-11T11:47:04Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1220",
+      "merged_at": "2026-10-11T11:47:01Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1218",
+      "merged_at": "2026-10-11T11:46:58Z"
+    },
+    {
+      "html_url": "https://github.com/langroid/langroid/pull/1215",
+      "merged_at": "2026-10-11T11:46:55Z"
+    },
+    {
+      "html_url": "https://github.com/gpustack/gpustack/pull/6391",
+      "merged_at": "2026-10-12T11:23:04Z"
+    },
+    {
+      "html_url": "https://github.com/HKUDS/DeepCode/pull/256",
+      "merged_at": "2026-10-12T07:32:56Z"
+    },
+    {
+      "html_url": "https://github.com/modelscope/evalscope/pull/1833",
+      "merged_at": "2026-10-10T08:15:38Z"
+    },
+    {
+      "html_url": "https://github.com/modelscope/evalscope/pull/1832",
+      "merged_at": "2026-10-10T09:00:01Z"
+    },
+    {
+      "html_url": "https://github.com/crmne/ruby_llm/pull/1052",
+      "merged_at": "2026-10-11T18:56:37Z"
+    },
+    {
+      "html_url": "https://github.com/crmne/ruby_llm/pull/1051",
+      "merged_at": "2026-10-11T18:50:52Z"
+    },
+    {
+      "html_url": "https://github.com/HKUDS/DeepCode/pull/255",
+      "merged_at": "2026-10-12T07:32:56Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/7924",
+      "merged_at": "2026-10-09T05:20:23Z"
+    },
+    {
+      "html_url": "https://github.com/neuml/txtai/pull/1362",
+      "merged_at": "2026-10-08T19:55:26Z"
+    },
+    {
+      "html_url": "https://github.com/MervinPraison/PraisonAI/pull/5732",
+      "merged_at": "2026-10-08T17:26:08Z"
+    },
+    {
+      "html_url": "https://github.com/MervinPraison/PraisonAI/pull/5731",
+      "merged_at": "2026-10-08T17:25:46Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/3996",
+      "merged_at": "2026-10-26T16:24:56Z"
+    },
+    {
+      "html_url": "https://github.com/microsoft/semantic-kernel/pull/14563",
+      "merged_at": "2026-10-16T10:16:46Z"
+    },
+    {
+      "html_url": "https://github.com/BerriAI/litellm/pull/44800",
+      "merged_at": "2026-10-08T00:42:36Z"
+    }
+  ]
+}
