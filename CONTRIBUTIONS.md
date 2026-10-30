@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/merged-prs-dark.svg">
-  <img src="./assets/merged-prs-light.svg" width="100%" alt="Winoren 的开源贡献统计">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-overview-dark.svg">
+  <img src="./assets/contributions-overview-light.svg" width="100%" alt="Winoren 的全部项目贡献统计">
 </picture>
 
 <picture>

@@ -61,14 +61,14 @@ for theme, c in PALETTES.items():
     hero.append('</svg>')
     (ROOT/f'assets/hero-{theme}.svg').write_text('\n'.join(hero)+'\n')
 
-    height = 792
+    height = 768
     parts = start(height, f"Winoren · {DATA['total']} 个 PR 已合并")
     label(parts, 'MERGED PULL REQUESTS', c)
     text(parts, 922, 54, 'github.com/Winoren', c['muted'], 12, mono=True, anchor='end')
     line(parts, 74, c)
     text(parts, 36, 162, DATA['total'], c['fg'], 76, 700, True)
     text(parts, 155, 160, '个 PR 已合并', c['fg'], 18, 600)
-    text(parts, 40, 194, f"覆盖 {DATA['repo_count']} 个他人仓库 · 近 30 天 +{recent}", c['secondary'], 14)
+    text(parts, 40, 194, f"覆盖 {DATA['repo_count']} 个他人仓库", c['secondary'], 14)
     # Every dot represents a merged PR. Stack dots by date without overlap.
     daily = Counter(d.astimezone(NOW.tzinfo).date() for d in merged)
     for day, count in sorted(daily.items()):
@@ -95,8 +95,6 @@ for theme, c in PALETTES.items():
         text(parts, 922, y, f"☆ {repo['stars']/1000:.1f}k", c['secondary'], 14, 600, True, 'end')
         if idx < 7: line(parts, y+22, c, 88)
     line(parts, 744, c)
-    text(parts, 40, 770, '数据来源 GitHub API · 项目按 Star 降序', c['muted'], 11)
-    text(parts, 922, 770, NOW.strftime('更新于 %Y-%m-%d %H:%M (UTC+8)'), c['muted'], 11, mono=True, anchor='end')
     parts.append('</svg>')
     (ROOT/f'assets/merged-prs-{theme}.svg').write_text('\n'.join(parts)+'\n')
     header = start(226, 'Winoren · PR 明细')
