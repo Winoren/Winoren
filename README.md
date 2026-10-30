@@ -27,18 +27,18 @@
 
 ### OPEN SOURCE
 
-**59 个 PR 已合并 · 20 个开源仓库**
+**66 个 PR 已合并 · 20 个开源仓库**
 
 参与 Agent 框架与 LLM 应用生态的缺陷修复，关注工具调用、流式响应、知识检索、数据处理与运行可靠性。
 
 | 项目 | Star | 贡献 |
 | :--- | ---: | :--- |
-| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 393.2k | 2 项修复被采纳，作为共同作者署名 |
-| [langgenius/dify](https://github.com/langgenius/dify) | 159.7k | 10 个 PR 已合并 |
-| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.5k | 5 个 PR 已合并 |
-| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62.2k | 1 个 PR 已合并 |
-| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60.2k | 3 个 PR 已合并 |
-| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 35.6k | 1 个 PR 已合并 |
+| [openclaw/openclaw](https://github.com/openclaw/openclaw) | 393.4k | 2 项修复被采纳，作为共同作者署名 |
+| [langgenius/dify](https://github.com/langgenius/dify) | 159.9k | 15 个 PR 已合并 |
+| [bytedance/deer-flow](https://github.com/bytedance/deer-flow) | 84.7k | 7 个 PR 已合并 |
+| [BerriAI/litellm](https://github.com/BerriAI/litellm) | 62.3k | 1 个 PR 已合并 |
+| [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) | 60.3k | 3 个 PR 已合并 |
+| [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 35.9k | 1 个 PR 已合并 |
 | [labring/FastGPT](https://github.com/labring/FastGPT) | 29.9k | 1 个 PR 已合并 |
 | [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) | 28.7k | 1 个 PR 已合并 |
 
@@ -50,7 +50,7 @@
 
 [查看贡献明细 →](CONTRIBUTIONS.md) · [查看 GitHub 已合并 PR →](https://github.com/pulls?q=is%3Apr+author%3AWinoren+is%3Amerged)
 
-<sub>Star 和 PR 数量为 2026 年 10 月 27 日的快照。59 个已合并 PR 按本人提交统计；OpenClaw 的共同署名贡献单独列出。</sub>
+<sub>Star 和 PR 数量为 2026 年 10 月 30 日的快照。66 个已合并 PR 按本人提交统计；OpenClaw 的共同署名贡献单独列出。</sub>
 
 ---
 
