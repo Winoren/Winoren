@@ -14,3 +14,8 @@
 <div><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-name-dark.svg"><img src="./assets/overview-row-08-name-light.svg" width="67.5%" alt="microsoft/semantic-kernel"></picture><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-microsoft-semantic-kernel" title="查看 microsoft/semantic-kernel 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-count-dark.svg"><img src="./assets/overview-row-08-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-stars-dark.svg"><img src="./assets/overview-row-08-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 
 [查看 PR 明细](./CONTRIBUTIONS.md) · [邮件联系](mailto:d2572973337@qq.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/internship-telecom-dark.svg">
+  <img src="./assets/internship-telecom-light.svg" width="100%" alt="中国电信实习经历：翼龙多云资源管理平台（CMP），面向企业提供计算、存储、网络和备份资源的统一管理。">
+</picture>

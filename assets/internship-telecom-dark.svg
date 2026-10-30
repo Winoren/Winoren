@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="356" viewBox="0 0 962 356" role="img" aria-label="中国电信实习经历：翼龙多云资源管理平台（CMP）">
+<title>中国电信 · 实习经历 · 翼龙多云资源管理平台（CMP）</title>
+<rect x="40" y="47" width="7" height="7" fill="#BC8CFF"/>
+<text x="56" y="54" font-family="ui-monospace,&#x27;SF Mono&#x27;,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#BC8CFF">INTERNSHIP EXPERIENCE</text>
+<text x="40" y="111" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="28" font-weight="700" fill="#F0F6FC">中国电信 · 实习经历</text>
+<text x="40" y="157" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="22" font-weight="600" fill="#F0F6FC">翼龙多云资源管理平台（CMP）</text>
+<text x="40" y="202" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="15" font-weight="400" fill="#B1BAC4">面向企业云资源使用与运营管理场景，统一管理云主机、存储、网络与备份资源。</text>
+<text x="40" y="230" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="15" font-weight="400" fill="#B1BAC4">对接天翼云等底层云服务，覆盖资源申请、配置、状态同步和运维管理流程。</text>
+<text x="40" y="274" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="13" font-weight="400" fill="#8B949E">业务模块：计算资源 / 存储备份 / 网络与安全 / 订单任务 / 资源巡检</text>
+<text x="40" y="307" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="13" font-weight="400" fill="#8B949E">Java · Spring Boot / Spring Cloud · MyBatis · Redis · Vue 2 · TypeScript</text>
+<line x1="40" y1="334" x2="922" y2="334" stroke="#30363D"/>
+</svg>
