@@ -22,7 +22,7 @@ for theme,c in {
     parts.append(f'<line x1="40" y1="298" x2="922" y2="298" stroke="{c["line"]}"/>')
     parts.append('</svg>')
     (ROOT/f'assets/internship-telecom-{theme}.svg').write_text('\n'.join(parts)+'\n')
-    parts=['<svg xmlns="http://www.w3.org/2000/svg" width="962" height="356" viewBox="0 0 962 356" role="img" aria-label="美的集团实习经历：QMS 智能质量管理 Agent">', '<title>美的集团 · 实习经历 · QMS 智能质量管理 Agent</title>']
+    parts=['<svg xmlns="http://www.w3.org/2000/svg" width="962" height="320" viewBox="0 0 962 320" role="img" aria-label="美的集团实习经历：QMS 智能质量管理 Agent">', '<title>美的集团 · 实习经历 · QMS 智能质量管理 Agent</title>']
     parts.append(f'<rect x="40" y="47" width="7" height="7" fill="{c["accent"]}"/>')
     text(56,54,'INTERNSHIP EXPERIENCE',c['accent'],11.5,600,True)
     text(40,111,'美的集团 · 实习经历',c['fg'],28,700)
@@ -30,8 +30,7 @@ for theme,c in {
     text(40,202,'面向美的 QMS 质量管理场景，提供质量数据查询与异常处置辅助能力。',c['secondary'],15)
     text(40,230,'围绕来料检验、出货检验和 PDCA 改善，辅助质量异常分析与处置建议生成。',c['secondary'],15)
     text(40,274,'业务功能：质量数据查询 / 异常线索汇总 / 改善建议草拟 / 人工审核',c['muted'],13)
-    text(40,307,'Agent 能力：业务工具接入 · 质量处理 SOP · 会话上下文 · 执行权限控制',c['muted'],13)
-    parts.append(f'<line x1="40" y1="334" x2="922" y2="334" stroke="{c["line"]}"/>')
+    parts.append(f'<line x1="40" y1="298" x2="922" y2="298" stroke="{c["line"]}"/>')
     parts.append('</svg>')
     (ROOT/f'assets/internship-midea-{theme}.svg').write_text('\n'.join(parts)+'\n')
 

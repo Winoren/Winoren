@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="962" height="356" viewBox="0 0 962 356" role="img" aria-label="美的集团实习经历：QMS 智能质量管理 Agent">
+<svg xmlns="http://www.w3.org/2000/svg" width="962" height="320" viewBox="0 0 962 320" role="img" aria-label="美的集团实习经历：QMS 智能质量管理 Agent">
 <title>美的集团 · 实习经历 · QMS 智能质量管理 Agent</title>
 <rect x="40" y="47" width="7" height="7" fill="#8250DF"/>
 <text x="56" y="54" font-family="ui-monospace,&#x27;SF Mono&#x27;,Menlo,Consolas,monospace" font-size="11.5" font-weight="600" fill="#8250DF">INTERNSHIP EXPERIENCE</text>
@@ -7,6 +7,5 @@
 <text x="40" y="202" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="15" font-weight="400" fill="#59636E">面向美的 QMS 质量管理场景，提供质量数据查询与异常处置辅助能力。</text>
 <text x="40" y="230" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="15" font-weight="400" fill="#59636E">围绕来料检验、出货检验和 PDCA 改善，辅助质量异常分析与处置建议生成。</text>
 <text x="40" y="274" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="13" font-weight="400" fill="#818B98">业务功能：质量数据查询 / 异常线索汇总 / 改善建议草拟 / 人工审核</text>
-<text x="40" y="307" font-family="-apple-system,BlinkMacSystemFont,&#x27;Segoe UI&#x27;,&#x27;PingFang SC&#x27;,&#x27;Microsoft YaHei&#x27;,sans-serif" font-size="13" font-weight="400" fill="#818B98">Agent 能力：业务工具接入 · 质量处理 SOP · 会话上下文 · 执行权限控制</text>
-<line x1="40" y1="334" x2="922" y2="334" stroke="#EAEEF2"/>
+<line x1="40" y1="298" x2="922" y2="298" stroke="#EAEEF2"/>
 </svg>
