@@ -91,3 +91,8 @@ for i, group in enumerate(GROUPS):
         parts.append(card)
 (ROOT / 'CONTRIBUTIONS.md').write_text('\n\n'.join(parts)+'\n')
 print(f"Rendered {len(GROUPS)} project sections and {sum(len(g['prs']) for g in GROUPS)} PR records.")
+
+# Add native links after rendering the visual overview and PR records.
+import subprocess
+import sys
+subprocess.run([sys.executable, str(ROOT/'scripts/render_clickable_overviews.py')], check=True)
