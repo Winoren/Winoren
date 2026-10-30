@@ -58,7 +58,7 @@ for theme, c in PALETTES.items():
     hero.append('</svg>')
     (ROOT/f'assets/hero-{theme}.svg').write_text('\n'.join(hero)+'\n')
 
-    height = 820
+    height = 792
     parts = start(height, f"Winoren · {DATA['total']} 个 PR 已合并")
     label(parts, 'MERGED PULL REQUESTS', c)
     text(parts, 922, 54, 'github.com/Winoren', c['muted'], 12, mono=True, anchor='end')
@@ -87,14 +87,29 @@ for theme, c in PALETTES.items():
         else:
             text(parts, 42, y, '◇', c['accent'], 24)
         text(parts, 88, y, repo['name'], c['fg'], 16, 600, True)
-        detail = f"{repo['count']} 个 PR" if repo['count'] else f"{repo['adopted']} 项采纳*"
+        detail = f"{repo['count'] or repo['adopted']} 个 PR"
         text(parts, 770, y, detail, c['fg'], 14, 600, anchor='end')
         text(parts, 922, y, f"☆ {repo['stars']/1000:.1f}k", c['secondary'], 14, 600, True, 'end')
         if idx < 7: line(parts, y+22, c, 88)
     line(parts, 744, c)
-    text(parts, 40, 770, '* OpenClaw：修复被维护者采纳并共同署名，未计入上述 PR 总数。', c['muted'], 12)
-    text(parts, 40, 798, '数据来源 GitHub API · 项目按 Star 降序', c['muted'], 11)
-    text(parts, 922, 798, NOW.strftime('更新于 %Y-%m-%d %H:%M (UTC+8)'), c['muted'], 11, mono=True, anchor='end')
+    text(parts, 40, 770, '数据来源 GitHub API · 项目按 Star 降序', c['muted'], 11)
+    text(parts, 922, 770, NOW.strftime('更新于 %Y-%m-%d %H:%M (UTC+8)'), c['muted'], 11, mono=True, anchor='end')
     parts.append('</svg>')
     (ROOT/f'assets/merged-prs-{theme}.svg').write_text('\n'.join(parts)+'\n')
-print('Rendered light and dark profile SVGs.')
+    header = start(226, 'Winoren · PR 明细')
+    label(header, 'OPEN SOURCE CONTRIBUTIONS', c)
+    text(header, 38, 126, 'PR 明细', c['fg'], 42, 700)
+    text(header, 40, 166, 'Winoren · 开源贡献与合并记录', c['secondary'], 15.5)
+    text(header, 40, 198, f"{DATA['total']} 个 PR 已合并 · {DATA['repo_count']} 个项目", c['muted'], 13)
+    text(header, 922, 198, NOW.strftime('%Y-%m-%d'), c['muted'], 12, mono=True, anchor='end')
+    line(header, 225, c)
+    header.append('</svg>')
+    (ROOT/f'assets/contributions-header-{theme}.svg').write_text('\n'.join(header)+'\n')
+
+    detail = start(88, 'Pull request details')
+    label(detail, 'PULL REQUEST DETAILS', c)
+    line(detail, 74, c)
+    detail.append('</svg>')
+    (ROOT/f'assets/contributions-detail-{theme}.svg').write_text('\n'.join(detail)+'\n')
+
+print('Rendered light and dark profile and contribution SVGs.')
