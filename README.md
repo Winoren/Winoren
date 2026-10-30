@@ -8,4 +8,4 @@
   <img src="./assets/merged-prs-light.svg" width="100%" alt="Winoren 的开源贡献：已合并 PR、时间线与按 Star 排列的项目">
 </picture>
 
-[查看 PR 明细](./CONTRIBUTIONS.md)
+[查看 PR 明细](./CONTRIBUTIONS.md) · [邮件联系](mailto:d2572973337@qq.com)
