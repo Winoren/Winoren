@@ -27,7 +27,7 @@ for theme,c in {
     text(56,54,'INTERNSHIP EXPERIENCE',c['accent'],11.5,600,True)
     text(40,111,'美的集团 · 实习经历',c['fg'],28,700)
     text(40,157,'QMS 智能质量管理 Agent',c['fg'],22,600)
-    text(40,202,'以美的 QMS 为业务场景，规划基于 Craft 开发质量管理 Agent。',c['secondary'],15)
+    text(40,202,'面向美的 QMS 质量管理场景，规划质量数据查询与异常处置辅助 Agent。',c['secondary'],15)
     text(40,230,'围绕来料检验、出货检验和 PDCA 改善，辅助质量异常分析与处置建议生成。',c['secondary'],15)
     text(40,274,'方案范围：质量数据查询 / 异常线索汇总 / 改善建议草拟 / 人工审核',c['muted'],13)
     text(40,307,'Agent 设计：业务工具接入 · 质量处理 SOP · 会话上下文 · 执行权限控制',c['muted'],13)

@@ -22,5 +22,5 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/internship-midea-dark.svg">
-  <img src="./assets/internship-midea-light.svg" width="100%" alt="美的集团实习经历：QMS 智能质量管理 Agent 项目规划，以美的 QMS 为业务场景，规划基于 Craft 开发质量异常分析与改善建议辅助能力。">
+  <img src="./assets/internship-midea-light.svg" width="100%" alt="美的集团实习经历：QMS 智能质量管理 Agent 项目规划，以美的 QMS 为业务场景，规划质量异常分析与改善建议辅助能力。">
 </picture>
