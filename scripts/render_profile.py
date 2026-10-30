@@ -51,7 +51,7 @@ for theme, c in PALETTES.items():
     hero = start(358, 'Winoren · Agent 开发 · 后端工程 · 获奖经历')
     label(hero, 'AGENT DEVELOPER · BACKEND ENGINEERING', c)
     text(hero, 38, 128, 'Winoren', c['fg'], 48, 700)
-    hero.append(f'<rect x="256" y="92" width="12" height="43" rx="2" fill="{c["accent"]}" opacity="0.45"/>')
+    hero.append(f'<rect x="256" y="92" width="12" height="43" rx="2" fill="{c["accent"]}" ><animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.55;0.95;1" dur="1.1s" repeatCount="indefinite"/></rect>')
     text(hero, 40, 173, '探索业务 Agent，也持续向 Dify、deer-flow 等 AI 开源项目贡献代码。', c['secondary'], 15.5)
     text(hero, 40, 204, '2027 届软件工程本科 · Agent Harness / MCP / 上下文工程 / Eval', c['muted'], 13)
     text(hero, 40, 231, '实习经历', c['muted'], 13)
@@ -61,7 +61,7 @@ for theme, c in PALETTES.items():
     text(hero, 118, 301, '第十五届蓝桥杯大赛软件赛全国一等奖', c['secondary'], 14, 500)
     text(hero, 118, 329, '睿抗（RAICOM）编程技能竞赛全国二等奖', c['secondary'], 14, 500)
     hero.append('</svg>')
-    (ROOT/f'assets/hero-{theme}.svg').write_text('\n'.join(hero)+'\n')
+    (ROOT/f'assets/hero-animated-{theme}.svg').write_text('\n'.join(hero)+'\n')
 
     height = 768
     parts = start(height, f"Winoren · {DATA['total']} 个 PR 已合并")

@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img src="./assets/hero-light.svg" width="100%" alt="Winoren — Agent 开发 · 后端工程 · 2027 届 · 中国电信、美的实习经历 · 蓝桥杯全国一等奖、睿抗全国二等奖">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-animated-dark.svg">
+  <img src="./assets/hero-animated-light.svg" width="100%" alt="Winoren — Agent 开发 · 后端工程 · 2027 届 · 中国电信、美的实习经历 · 蓝桥杯全国一等奖、睿抗全国二等奖">
 </picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/merged-prs-header-dark.svg"><img src="./assets/merged-prs-header-light.svg" width="100%" alt="开源贡献统计"></picture>
@@ -23,4 +23,9 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/internship-midea-overview-dark.svg">
   <img src="./assets/internship-midea-overview-light.svg" width="100%" alt="美的集团实习经历：QMS 智能质量管理 Agent，以美的 QMS 为业务场景，提供质量异常分析与改善建议辅助能力。">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Winoren/Winoren/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/Winoren/Winoren/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub 贡献贪吃蛇动画">
 </picture>
