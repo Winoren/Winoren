@@ -32,6 +32,6 @@ for theme,c in {
     text(40,274,'业务功能：质量数据查询 / 异常线索汇总 / 改善建议草拟 / 人工审核',c['muted'],13)
     parts.append(f'<line x1="40" y1="298" x2="922" y2="298" stroke="{c["line"]}"/>')
     parts.append('</svg>')
-    (ROOT/f'assets/internship-midea-{theme}.svg').write_text('\n'.join(parts)+'\n')
+    (ROOT/f'assets/internship-midea-overview-{theme}.svg').write_text('\n'.join(parts)+'\n')
 
 print('Rendered telecom and Midea internship project cards in light and dark themes.')
