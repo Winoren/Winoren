@@ -19,3 +19,8 @@
   <source media="(prefers-color-scheme: dark)" srcset="./assets/internship-telecom-dark.svg">
   <img src="./assets/internship-telecom-light.svg" width="100%" alt="中国电信实习经历：翼龙多云资源管理平台（CMP），面向企业提供计算、存储、网络和备份资源的统一管理。">
 </picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/internship-midea-dark.svg">
+  <img src="./assets/internship-midea-light.svg" width="100%" alt="美的集团实习经历：QMS 智能质量管理 Agent 项目规划，以美的 QMS 为业务场景，规划基于 Craft 开发质量异常分析与改善建议辅助能力。">
+</picture>
