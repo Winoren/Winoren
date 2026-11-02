@@ -87,6 +87,20 @@
     "name": "Tencent/WeKnora",
     "url": "https://github.com/Tencent/WeKnora",
     "prs": [
+      "[#5000](https://github.com/Tencent/WeKnora/pull/5000) — fix(docreader): match decomposed glyph text in PDF source locators",
+      "[#4999](https://github.com/Tencent/WeKnora/pull/4999) — fix(docreader): retain nested table text in DOCX fallback",
+      "[#4998](https://github.com/Tencent/WeKnora/pull/4998) — fix(docreader): honor HTML charset declarations in MHTML parts",
+      "[#4997](https://github.com/Tencent/WeKnora/pull/4997) — fix(docreader): round percentage display ties away from zero",
+      "[#4939](https://github.com/Tencent/WeKnora/pull/4939) — fix(ollama): synchronize service availability reads",
+      "[#4938](https://github.com/Tencent/WeKnora/pull/4938) — fix(client): use streaming timeout policy for single-file downloads",
+      "[#4937](https://github.com/Tencent/WeKnora/pull/4937) — fix(web-fetch): honor the HTML document base for relative URLs",
+      "[#4936](https://github.com/Tencent/WeKnora/pull/4936) — fix(web-search): parse DuckDuckGo redirect query parameters",
+      "[#4935](https://github.com/Tencent/WeKnora/pull/4935) — fix(notion): preserve multiline cells in Markdown tables",
+      "[#4934](https://github.com/Tencent/WeKnora/pull/4934) — fix(notion): keep embedded backtick fences inside code blocks",
+      "[#4933](https://github.com/Tencent/WeKnora/pull/4933) — fix(docparser): split JSON through deeply nested single-key wrappers",
+      "[#4932](https://github.com/Tencent/WeKnora/pull/4932) — fix(client): accept bare CR line endings in SSE streams",
+      "[#4931](https://github.com/Tencent/WeKnora/pull/4931) — fix(chunker): preserve literal trailing hashes in heading context",
+      "[#4930](https://github.com/Tencent/WeKnora/pull/4930) — fix(docparser): preserve table text when stripping layout attributes",
       "[#3996](https://github.com/Tencent/WeKnora/pull/3996) — fix(repository): SearchUsers 兼容 SQLite 方言并转义 LIKE 通配符"
     ]
   },

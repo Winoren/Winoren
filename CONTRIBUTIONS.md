@@ -4,7 +4,7 @@
 <div><a href="https://github.com/bytedance/deer-flow" title="打开 bytedance/deer-flow 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-name-dark.svg"><img src="./assets/overview-row-03-name-light.svg" width="67.5%" alt="bytedance/deer-flow"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-bytedance-deer-flow" title="查看 bytedance/deer-flow 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-count-dark.svg"><img src="./assets/overview-row-03-count-light.svg" width="14.5%" alt="查看 7 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-stars-dark.svg"><img src="./assets/overview-row-03-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/BerriAI/litellm" title="打开 BerriAI/litellm 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-name-dark.svg"><img src="./assets/overview-row-04-name-light.svg" width="67.5%" alt="BerriAI/litellm"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-berriai-litellm" title="查看 BerriAI/litellm 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-count-dark.svg"><img src="./assets/overview-row-04-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-stars-dark.svg"><img src="./assets/overview-row-04-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/crewAIInc/crewAI" title="打开 crewAIInc/crewAI 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-name-dark.svg"><img src="./assets/overview-row-05-name-light.svg" width="67.5%" alt="crewAIInc/crewAI"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-crewaiinc-crewai" title="查看 crewAIInc/crewAI 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-count-dark.svg"><img src="./assets/overview-row-05-count-light.svg" width="14.5%" alt="查看 3 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-stars-dark.svg"><img src="./assets/overview-row-05-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
-<div><a href="https://github.com/Tencent/WeKnora" title="打开 Tencent/WeKnora 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-name-dark.svg"><img src="./assets/overview-row-06-name-light.svg" width="67.5%" alt="Tencent/WeKnora"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-weknora" title="查看 Tencent/WeKnora 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-count-dark.svg"><img src="./assets/overview-row-06-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-stars-dark.svg"><img src="./assets/overview-row-06-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/Tencent/WeKnora" title="打开 Tencent/WeKnora 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-name-dark.svg"><img src="./assets/overview-row-06-name-light.svg" width="67.5%" alt="Tencent/WeKnora"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-weknora" title="查看 Tencent/WeKnora 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-count-dark.svg"><img src="./assets/overview-row-06-count-light.svg" width="14.5%" alt="查看 15 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-stars-dark.svg"><img src="./assets/overview-row-06-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/labring/FastGPT" title="打开 labring/FastGPT 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-name-dark.svg"><img src="./assets/overview-row-07-name-light.svg" width="67.5%" alt="labring/FastGPT"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-labring-fastgpt" title="查看 labring/FastGPT 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-count-dark.svg"><img src="./assets/overview-row-07-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-stars-dark.svg"><img src="./assets/overview-row-07-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/microsoft/semantic-kernel" title="打开 microsoft/semantic-kernel 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-name-dark.svg"><img src="./assets/overview-row-08-name-light.svg" width="67.5%" alt="microsoft/semantic-kernel"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-microsoft-semantic-kernel" title="查看 microsoft/semantic-kernel 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-count-dark.svg"><img src="./assets/overview-row-08-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-stars-dark.svg"><img src="./assets/overview-row-08-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/deepset-ai/haystack" title="打开 deepset-ai/haystack 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-name-dark.svg"><img src="./assets/overview-row-09-name-light.svg" width="67.5%" alt="deepset-ai/haystack"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-deepset-ai-haystack" title="查看 deepset-ai/haystack 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-count-dark.svg"><img src="./assets/overview-row-09-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-stars-dark.svg"><img src="./assets/overview-row-09-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
@@ -268,8 +268,64 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-07-dark.svg">
-  <img src="./assets/contribution-project-07-light.svg" width="100%" alt="Tencent/WeKnora · 1 个 PR">
+  <img src="./assets/contribution-project-07-light.svg" width="100%" alt="Tencent/WeKnora · 15 个 PR">
 </picture>
+
+> **[#5000](https://github.com/Tencent/WeKnora/pull/5000)**
+>
+> fix(docreader): match decomposed glyph text in PDF source locators
+
+> **[#4999](https://github.com/Tencent/WeKnora/pull/4999)**
+>
+> fix(docreader): retain nested table text in DOCX fallback
+
+> **[#4998](https://github.com/Tencent/WeKnora/pull/4998)**
+>
+> fix(docreader): honor HTML charset declarations in MHTML parts
+
+> **[#4997](https://github.com/Tencent/WeKnora/pull/4997)**
+>
+> fix(docreader): round percentage display ties away from zero
+
+> **[#4939](https://github.com/Tencent/WeKnora/pull/4939)**
+>
+> fix(ollama): synchronize service availability reads
+
+> **[#4938](https://github.com/Tencent/WeKnora/pull/4938)**
+>
+> fix(client): use streaming timeout policy for single-file downloads
+
+> **[#4937](https://github.com/Tencent/WeKnora/pull/4937)**
+>
+> fix(web-fetch): honor the HTML document base for relative URLs
+
+> **[#4936](https://github.com/Tencent/WeKnora/pull/4936)**
+>
+> fix(web-search): parse DuckDuckGo redirect query parameters
+
+> **[#4935](https://github.com/Tencent/WeKnora/pull/4935)**
+>
+> fix(notion): preserve multiline cells in Markdown tables
+
+> **[#4934](https://github.com/Tencent/WeKnora/pull/4934)**
+>
+> fix(notion): keep embedded backtick fences inside code blocks
+
+> **[#4933](https://github.com/Tencent/WeKnora/pull/4933)**
+>
+> fix(docparser): split JSON through deeply nested single-key wrappers
+
+> **[#4932](https://github.com/Tencent/WeKnora/pull/4932)**
+>
+> fix(client): accept bare CR line endings in SSE streams
+
+> **[#4931](https://github.com/Tencent/WeKnora/pull/4931)**
+>
+> fix(chunker): preserve literal trailing hashes in heading context
+
+> **[#4930](https://github.com/Tencent/WeKnora/pull/4930)**
+>
+> fix(docparser): preserve table text when stripping layout attributes
 
 > **[#3996](https://github.com/Tencent/WeKnora/pull/3996)**
 >
