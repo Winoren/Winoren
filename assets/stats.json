@@ -1,6 +1,6 @@
 {
-  "total": 99,
-  "repo_count": 20,
+  "total": 104,
+  "repo_count": 21,
   "repos": [
     {
       "name": "openclaw/openclaw",
@@ -41,7 +41,7 @@
       "name": "Tencent/WeKnora",
       "stars": 36004,
       "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-      "count": 15,
+      "count": 18,
       "adopted": 0
     },
     {
@@ -148,9 +148,36 @@
       "avatar": "https://avatars.githubusercontent.com/u/120770412?v=4",
       "count": 1,
       "adopted": 0
+    },
+    {
+      "name": "assafelovic/gpt-researcher",
+      "stars": 30607,
+      "avatar": "https://avatars.githubusercontent.com/u/13554167?v=4",
+      "count": 2,
+      "adopted": 0
     }
   ],
   "prs": [
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5018",
+      "merged_at": "2026-11-09T15:19:37Z"
+    },
+    {
+      "html_url": "https://github.com/assafelovic/gpt-researcher/pull/2200",
+      "merged_at": "2026-11-09T10:39:53Z"
+    },
+    {
+      "html_url": "https://github.com/assafelovic/gpt-researcher/pull/2199",
+      "merged_at": "2026-11-09T10:39:53Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5122",
+      "merged_at": "2026-11-09T10:23:15Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5147",
+      "merged_at": "2026-11-09T10:22:58Z"
+    },
     {
       "html_url": "https://github.com/Tencent/WeKnora/pull/5000",
       "merged_at": "2026-11-02T06:44:51Z"

@@ -87,6 +87,9 @@
     "name": "Tencent/WeKnora",
     "url": "https://github.com/Tencent/WeKnora",
     "prs": [
+      "[#5147](https://github.com/Tencent/WeKnora/pull/5147) — fix(docreader): preserve omitted DOCX table columns",
+      "[#5122](https://github.com/Tencent/WeKnora/pull/5122) — fix(docreader): preserve UTF-16 EPUB chapter text",
+      "[#5018](https://github.com/Tencent/WeKnora/pull/5018) — fix(docreader): preserve spine order in EPUB ZIP fallback",
       "[#5000](https://github.com/Tencent/WeKnora/pull/5000) — fix(docreader): match decomposed glyph text in PDF source locators",
       "[#4999](https://github.com/Tencent/WeKnora/pull/4999) — fix(docreader): retain nested table text in DOCX fallback",
       "[#4998](https://github.com/Tencent/WeKnora/pull/4998) — fix(docreader): honor HTML charset declarations in MHTML parts",
@@ -224,6 +227,14 @@
     "url": "https://github.com/ant-research/AntOmniEvo",
     "prs": [
       "[#20](https://github.com/ant-research/AntOmniEvo/pull/20) — fix(proposer): detect degenerate Claude Code sessions before rollout"
+    ]
+  },
+  {
+    "name": "assafelovic/gpt-researcher",
+    "url": "https://github.com/assafelovic/gpt-researcher",
+    "prs": [
+      "[#2200](https://github.com/assafelovic/gpt-researcher/pull/2200) — fix(document): keep OnlineDocumentLoader url a string when metadata omits source",
+      "[#2199](https://github.com/assafelovic/gpt-researcher/pull/2199) — fix(images): read image_generation_* config keys in the case Config stores them"
     ]
   }
 ]
