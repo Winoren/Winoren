@@ -1,6 +1,6 @@
 {
-  "total": 104,
-  "repo_count": 21,
+  "total": 110,
+  "repo_count": 22,
   "repos": [
     {
       "name": "openclaw/openclaw",
@@ -13,7 +13,7 @@
       "name": "langgenius/dify",
       "stars": 159976,
       "avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
-      "count": 34,
+      "count": 37,
       "adopted": 0
     },
     {
@@ -155,28 +155,39 @@
       "avatar": "https://avatars.githubusercontent.com/u/13554167?v=4",
       "count": 2,
       "adopted": 0
+    },
+    {
+      "avatar": "https://avatars.githubusercontent.com/u/39270919?v=4",
+      "name": "PrefectHQ/fastmcp",
+      "stars": 28400,
+      "count": 3,
+      "adopted": 0
     }
   ],
   "prs": [
     {
-      "html_url": "https://github.com/Tencent/WeKnora/pull/5018",
-      "merged_at": "2026-11-09T15:19:37Z"
+      "html_url": "https://github.com/langgenius/dify/pull/46098",
+      "merged_at": "2026-11-11T17:26:09Z"
     },
     {
-      "html_url": "https://github.com/assafelovic/gpt-researcher/pull/2200",
-      "merged_at": "2026-11-09T10:39:53Z"
+      "html_url": "https://github.com/langgenius/dify/pull/46097",
+      "merged_at": "2026-11-11T17:26:09Z"
     },
     {
-      "html_url": "https://github.com/assafelovic/gpt-researcher/pull/2199",
-      "merged_at": "2026-11-09T10:39:53Z"
+      "html_url": "https://github.com/langgenius/dify/pull/46096",
+      "merged_at": "2026-11-11T17:18:47Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5147",
+      "merged_at": "2026-11-09T10:22:58Z"
     },
     {
       "html_url": "https://github.com/Tencent/WeKnora/pull/5122",
       "merged_at": "2026-11-09T10:23:15Z"
     },
     {
-      "html_url": "https://github.com/Tencent/WeKnora/pull/5147",
-      "merged_at": "2026-11-09T10:22:58Z"
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5018",
+      "merged_at": "2026-11-09T15:19:37Z"
     },
     {
       "html_url": "https://github.com/Tencent/WeKnora/pull/5000",
@@ -343,6 +354,14 @@
       "merged_at": "2026-10-30T05:53:34Z"
     },
     {
+      "html_url": "https://github.com/PrefectHQ/fastmcp/pull/5798",
+      "merged_at": "2026-11-10T08:16:53Z"
+    },
+    {
+      "html_url": "https://github.com/PrefectHQ/fastmcp/pull/5793",
+      "merged_at": "2026-11-10T19:50:28Z"
+    },
+    {
       "html_url": "https://github.com/langgenius/dify/pull/44265",
       "merged_at": "2026-10-30T05:06:43Z"
     },
@@ -421,6 +440,10 @@
     {
       "html_url": "https://github.com/langroid/langroid/pull/1250",
       "merged_at": "2026-10-13T11:04:28Z"
+    },
+    {
+      "html_url": "https://github.com/PrefectHQ/fastmcp/pull/5715",
+      "merged_at": "2026-11-10T08:17:22Z"
     },
     {
       "html_url": "https://github.com/langroid/langroid/pull/1245",
@@ -561,6 +584,14 @@
     {
       "html_url": "https://github.com/MervinPraison/PraisonAI/pull/5731",
       "merged_at": "2026-10-08T17:25:46Z"
+    },
+    {
+      "html_url": "https://github.com/assafelovic/gpt-researcher/pull/2200",
+      "merged_at": "2026-11-09T10:39:53Z"
+    },
+    {
+      "html_url": "https://github.com/assafelovic/gpt-researcher/pull/2199",
+      "merged_at": "2026-11-09T10:39:53Z"
     },
     {
       "html_url": "https://github.com/Tencent/WeKnora/pull/3996",

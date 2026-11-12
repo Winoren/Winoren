@@ -11,6 +11,9 @@
     "name": "langgenius/dify",
     "url": "https://github.com/langgenius/dify",
     "prs": [
+      "[#46098](https://github.com/langgenius/dify/pull/46098) — test(auth): verify OAuth session eligibility and revocation sequences",
+      "[#46097](https://github.com/langgenius/dify/pull/46097) — test(accounts): cover invitation invalidation and activation recovery",
+      "[#46096](https://github.com/langgenius/dify/pull/46096) — test(file-grants): enforce persisted file ownership boundaries",
       "[#44993](https://github.com/langgenius/dify/pull/44993) — test(agent): verify package icon imports with SQLite",
       "[#44986](https://github.com/langgenius/dify/pull/44986) — test(agent): persist classic tool log ownership fixtures",
       "[#44981](https://github.com/langgenius/dify/pull/44981) — test(tools): exercise MCP provider lookups with SQLite",
@@ -235,6 +238,15 @@
     "prs": [
       "[#2200](https://github.com/assafelovic/gpt-researcher/pull/2200) — fix(document): keep OnlineDocumentLoader url a string when metadata omits source",
       "[#2199](https://github.com/assafelovic/gpt-researcher/pull/2199) — fix(images): read image_generation_* config keys in the case Config stores them"
+    ]
+  },
+  {
+    "name": "PrefectHQ/fastmcp",
+    "url": "https://github.com/PrefectHQ/fastmcp",
+    "prs": [
+      "[#5798](https://github.com/PrefectHQ/fastmcp/pull/5798) — Roll back the tool stamp when a tool registration is rejected",
+      "[#5793](https://github.com/PrefectHQ/fastmcp/pull/5793) — Keep task config and execution on transformed tools",
+      "[#5715](https://github.com/PrefectHQ/fastmcp/pull/5715) — Honor Code Mode search limits after BM25 ranking"
     ]
   }
 ]

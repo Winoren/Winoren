@@ -1,6 +1,6 @@
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-overview-header-dark.svg"><img src="./assets/contributions-overview-header-light.svg" width="100%" alt="开源贡献统计"></picture>
 <div><a href="https://github.com/openclaw/openclaw" title="打开 openclaw/openclaw 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-name-dark.svg"><img src="./assets/overview-row-01-name-light.svg" width="67.5%" alt="openclaw/openclaw"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-openclaw-openclaw" title="查看 openclaw/openclaw 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-count-dark.svg"><img src="./assets/overview-row-01-count-light.svg" width="14.5%" alt="查看 2 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-stars-dark.svg"><img src="./assets/overview-row-01-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
-<div><a href="https://github.com/langgenius/dify" title="打开 langgenius/dify 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-name-dark.svg"><img src="./assets/overview-row-02-name-light.svg" width="67.5%" alt="langgenius/dify"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-langgenius-dify" title="查看 langgenius/dify 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-count-dark.svg"><img src="./assets/overview-row-02-count-light.svg" width="14.5%" alt="查看 34 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-stars-dark.svg"><img src="./assets/overview-row-02-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/langgenius/dify" title="打开 langgenius/dify 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-name-dark.svg"><img src="./assets/overview-row-02-name-light.svg" width="67.5%" alt="langgenius/dify"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-langgenius-dify" title="查看 langgenius/dify 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-count-dark.svg"><img src="./assets/overview-row-02-count-light.svg" width="14.5%" alt="查看 37 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-stars-dark.svg"><img src="./assets/overview-row-02-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/bytedance/deer-flow" title="打开 bytedance/deer-flow 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-name-dark.svg"><img src="./assets/overview-row-03-name-light.svg" width="67.5%" alt="bytedance/deer-flow"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-bytedance-deer-flow" title="查看 bytedance/deer-flow 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-count-dark.svg"><img src="./assets/overview-row-03-count-light.svg" width="14.5%" alt="查看 7 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-stars-dark.svg"><img src="./assets/overview-row-03-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/BerriAI/litellm" title="打开 BerriAI/litellm 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-name-dark.svg"><img src="./assets/overview-row-04-name-light.svg" width="67.5%" alt="BerriAI/litellm"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-berriai-litellm" title="查看 BerriAI/litellm 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-count-dark.svg"><img src="./assets/overview-row-04-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-stars-dark.svg"><img src="./assets/overview-row-04-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/crewAIInc/crewAI" title="打开 crewAIInc/crewAI 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-name-dark.svg"><img src="./assets/overview-row-05-name-light.svg" width="67.5%" alt="crewAIInc/crewAI"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-crewaiinc-crewai" title="查看 crewAIInc/crewAI 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-count-dark.svg"><img src="./assets/overview-row-05-count-light.svg" width="14.5%" alt="查看 3 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-stars-dark.svg"><img src="./assets/overview-row-05-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
@@ -21,6 +21,7 @@
 <div><a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit" title="打开 NVIDIA/NeMo-Agent-Toolkit 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-20-name-dark.svg"><img src="./assets/overview-row-20-name-light.svg" width="67.5%" alt="NVIDIA/NeMo-Agent-Toolkit"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-nvidia-nemo-agent-toolkit" title="查看 NVIDIA/NeMo-Agent-Toolkit 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-20-count-dark.svg"><img src="./assets/overview-row-20-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-20-stars-dark.svg"><img src="./assets/overview-row-20-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/ant-research/AntOmniEvo" title="打开 ant-research/AntOmniEvo 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-21-name-dark.svg"><img src="./assets/overview-row-21-name-light.svg" width="67.5%" alt="ant-research/AntOmniEvo"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-ant-research-antomnievo" title="查看 ant-research/AntOmniEvo 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-21-count-dark.svg"><img src="./assets/overview-row-21-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-21-stars-dark.svg"><img src="./assets/overview-row-21-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/assafelovic/gpt-researcher" title="打开 assafelovic/gpt-researcher 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-22-name-dark.svg"><img src="./assets/overview-row-22-name-light.svg" width="67.5%" alt="assafelovic/gpt-researcher"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-assafelovic-gpt-researcher" title="查看 assafelovic/gpt-researcher 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-22-count-dark.svg"><img src="./assets/overview-row-22-count-light.svg" width="14.5%" alt="查看 2 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-22-stars-dark.svg"><img src="./assets/overview-row-22-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/PrefectHQ/fastmcp" title="打开 PrefectHQ/fastmcp 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-name-dark.svg"><img src="./assets/overview-row-23-name-light.svg" width="67.5%" alt="PrefectHQ/fastmcp"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-prefecthq-fastmcp" title="查看 PrefectHQ/fastmcp 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-count-dark.svg"><img src="./assets/overview-row-23-count-light.svg" width="14.5%" alt="查看 3 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-stars-dark.svg"><img src="./assets/overview-row-23-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-detail-dark.svg">
@@ -50,8 +51,20 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-02-dark.svg">
-  <img src="./assets/contribution-project-02-light.svg" width="100%" alt="langgenius/dify · 34 个 PR">
+  <img src="./assets/contribution-project-02-light.svg" width="100%" alt="langgenius/dify · 37 个 PR">
 </picture>
+
+> **[#46098](https://github.com/langgenius/dify/pull/46098)**
+>
+> test(auth): verify OAuth session eligibility and revocation sequences
+
+> **[#46097](https://github.com/langgenius/dify/pull/46097)**
+>
+> test(accounts): cover invitation invalidation and activation recovery
+
+> **[#46096](https://github.com/langgenius/dify/pull/46096)**
+>
+> test(file-grants): enforce persisted file ownership boundaries
 
 > **[#44993](https://github.com/langgenius/dify/pull/44993)**
 >
@@ -608,3 +621,22 @@
 > **[#2199](https://github.com/assafelovic/gpt-researcher/pull/2199)**
 >
 > fix(images): read image_generation_* config keys in the case Config stores them
+
+<a name="pr-prefecthq-fastmcp"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-23-dark.svg">
+  <img src="./assets/contribution-project-23-light.svg" width="100%" alt="PrefectHQ/fastmcp · 3 个 PR">
+</picture>
+
+> **[#5798](https://github.com/PrefectHQ/fastmcp/pull/5798)**
+>
+> Roll back the tool stamp when a tool registration is rejected
+
+> **[#5793](https://github.com/PrefectHQ/fastmcp/pull/5793)**
+>
+> Keep task config and execution on transformed tools
+
+> **[#5715](https://github.com/PrefectHQ/fastmcp/pull/5715)**
+>
+> Honor Code Mode search limits after BM25 ranking
