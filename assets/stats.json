@@ -1,6 +1,6 @@
 {
-  "total": 131,
-  "repo_count": 24,
+  "total": 129,
+  "repo_count": 23,
   "repos": [
     {
       "name": "openclaw/openclaw",
@@ -164,14 +164,90 @@
       "adopted": 0
     },
     {
-      "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
+      "name": "Tencent/BrowserSkill",
       "count": 1,
       "adopted": 0,
-      "name": "Tencent/BrowserSkill",
-      "stars": 10486
+      "stars": 10488,
+      "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4"
     }
   ],
   "prs": [
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/45743",
+      "merged_at": "2026-11-17T02:42:56Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5556",
+      "merged_at": "2026-11-16T06:43:29Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5555",
+      "merged_at": "2026-11-16T06:43:25Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5552",
+      "merged_at": "2026-11-16T06:43:21Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5551",
+      "merged_at": "2026-11-16T06:43:15Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5549",
+      "merged_at": "2026-11-16T06:43:11Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5546",
+      "merged_at": "2026-11-16T06:42:51Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5544",
+      "merged_at": "2026-11-16T06:42:47Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5541",
+      "merged_at": "2026-11-16T06:42:43Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5434",
+      "merged_at": "2026-11-16T06:42:18Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5448",
+      "merged_at": "2026-11-16T03:58:47Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5542",
+      "merged_at": "2026-11-16T03:58:39Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5554",
+      "merged_at": "2026-11-16T03:52:31Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5553",
+      "merged_at": "2026-11-16T03:52:05Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5548",
+      "merged_at": "2026-11-16T03:51:58Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5550",
+      "merged_at": "2026-11-16T03:51:50Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5545",
+      "merged_at": "2026-11-16T03:51:43Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5536",
+      "merged_at": "2026-11-16T03:40:22Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/BrowserSkill/pull/746",
+      "merged_at": "2026-11-15T11:04:11Z"
+    },
     {
       "html_url": "https://github.com/langgenius/dify/pull/46098",
       "merged_at": "2026-11-11T17:26:09Z"
