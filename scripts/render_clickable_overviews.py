@@ -6,6 +6,7 @@ import json,re
 ROOT=Path(__file__).resolve().parents[1]
 STATS=json.loads((ROOT/'assets/stats.json').read_text())
 AVATARS=json.loads((ROOT/'assets/repo-avatars.json').read_text())
+PROFILE_HIDDEN_REPOS = {'labring/FastGPT', 'microsoft/semantic-kernel'}
 FONT="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif"
 MONO="ui-monospace,'SF Mono',Menlo,Consolas,monospace"
 
@@ -34,9 +35,11 @@ for theme in ['light','dark']:
         for kind,(x,width,body) in pieces.items():
             (ROOT/f'assets/overview-row-{i+1:02}-{kind}-{theme}.svg').write_text(f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="52" viewBox="{x} 0 {width} 52"><title>{name} · {kind}</title>{body}</svg>\n')
 
-def overview(source,count):
+def overview(source,count,exclude=()):
     rows=[picture(source+'-header','开源贡献统计')]
     for i,repo in enumerate(STATS['repos'][:count]):
+        if repo['name'] in exclude:
+            continue
         stem=f'overview-row-{i+1:02}'
         url='https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#'+anchor(repo['name'])
         row=f'<a href="https://github.com/{repo["name"]}" title="打开 {escape(repo["name"],quote=True)} 项目仓库">'+picture(stem+'-name',repo['name'],'67.5%')+'</a>'
@@ -49,7 +52,7 @@ p=ROOT/'README.md'
 s=p.read_text()
 a=s.index('<picture>',s.index('</picture>')+len('</picture>'))
 b=s.index('[查看 PR 明细]')
-p.write_text(s[:a]+overview('merged-prs',8)+'\n\n'+s[b:])
+p.write_text(s[:a]+overview('merged-prs',8,PROFILE_HIDDEN_REPOS)+'\n\n'+s[b:])
 p=ROOT/'CONTRIBUTIONS.md'
 s=p.read_text()
 b=re.search(r'<picture>\s*<source[^>]+contributions-detail-dark.svg',s).start()
@@ -63,4 +66,4 @@ for i,group in enumerate(json.loads((ROOT/'assets/contributions.json').read_text
     start=s.rfind('<picture>',0,end)
     s=s[:start]+f'<a name="{anchor(group["name"])}"></a>\n\n'+s[start:]
 p.write_text(s)
-print('Linked 8 profile counts and all 21 detail counts to project anchors.')
+print('Linked profile and contribution counts to project anchors.')
