@@ -1,5 +1,5 @@
 {
-  "total": 129,
+  "total": 139,
   "repo_count": 23,
   "repos": [
     {
@@ -13,7 +13,7 @@
       "name": "langgenius/dify",
       "stars": 159976,
       "avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
-      "count": 38,
+      "count": 39,
       "adopted": 0
     },
     {
@@ -48,7 +48,7 @@
       "name": "labring/FastGPT",
       "stars": 29947,
       "avatar": "https://avatars.githubusercontent.com/u/102226726?v=4",
-      "count": 1,
+      "count": 9,
       "adopted": 0
     },
     {
@@ -146,7 +146,7 @@
       "name": "ant-research/AntOmniEvo",
       "stars": 1219,
       "avatar": "https://avatars.githubusercontent.com/u/120770412?v=4",
-      "count": 1,
+      "count": 2,
       "adopted": 0
     },
     {
@@ -172,6 +172,46 @@
     }
   ],
   "prs": [
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8423",
+      "merged_at": "2026-11-21T11:10:32Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8441",
+      "merged_at": "2026-11-21T02:20:05Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8420",
+      "merged_at": "2026-11-19T13:12:34Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8418",
+      "merged_at": "2026-11-19T13:11:35Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8419",
+      "merged_at": "2026-11-19T13:09:59Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8424",
+      "merged_at": "2026-11-19T13:08:59Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8422",
+      "merged_at": "2026-11-19T13:07:24Z"
+    },
+    {
+      "html_url": "https://github.com/labring/FastGPT/pull/8421",
+      "merged_at": "2026-11-19T13:06:16Z"
+    },
+    {
+      "html_url": "https://github.com/langgenius/dify/pull/44267",
+      "merged_at": "2026-11-19T12:18:10Z"
+    },
+    {
+      "html_url": "https://github.com/ant-research/AntOmniEvo/pull/34",
+      "merged_at": "2026-11-17T09:34:49Z"
+    },
     {
       "html_url": "https://github.com/langgenius/dify/pull/45743",
       "merged_at": "2026-11-17T02:42:56Z"

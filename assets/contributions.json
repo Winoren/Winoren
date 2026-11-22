@@ -11,6 +11,7 @@
     "name": "langgenius/dify",
     "url": "https://github.com/langgenius/dify",
     "prs": [
+      "[#44267](https://github.com/langgenius/dify/pull/44267) — fix(nodejs-client): allow attachment-only hit testing",
       "[#45743](https://github.com/langgenius/dify/pull/45743) — test(agent): verify workspace collection rollback and replay",
       "[#46098](https://github.com/langgenius/dify/pull/46098) — test(auth): verify OAuth session eligibility and revocation sequences",
       "[#46097](https://github.com/langgenius/dify/pull/46097) — test(accounts): cover invitation invalidation and activation recovery",
@@ -84,6 +85,14 @@
     "name": "labring/FastGPT",
     "url": "https://github.com/labring/FastGPT",
     "prs": [
+      "[#8423](https://github.com/labring/FastGPT/pull/8423) — fix(workflow): 精准识别全局变量引用、禁止修改 key 并支持新增时自动生成",
+      "[#8441](https://github.com/labring/FastGPT/pull/8441) — fix(workflow): 避免代码节点误用其他字段的注解类型",
+      "[#8420](https://github.com/labring/FastGPT/pull/8420) — fix(workflow): 按替换后的拓扑校验重连",
+      "[#8418](https://github.com/labring/FastGPT/pull/8418) — fix(workflow): JSON Schema 比较忽略对象字段顺序",
+      "[#8419](https://github.com/labring/FastGPT/pull/8419) — fix(workflow): 拒绝重复的变更集分片 ID",
+      "[#8424](https://github.com/labring/FastGPT/pull/8424) — fix(workflow): 排除不可选的输出引用",
+      "[#8422](https://github.com/labring/FastGPT/pull/8422) — fix(workflow): 删除节点时保留字面量输入",
+      "[#8421](https://github.com/labring/FastGPT/pull/8421) — fix(workflow): 提取代码节点参数时跳过开头注释",
       "[#7924](https://github.com/labring/FastGPT/pull/7924) — fix(workflow): handle non-string values in the string-inclusion evaluator"
     ]
   },
@@ -247,6 +256,7 @@
     "name": "ant-research/AntOmniEvo",
     "url": "https://github.com/ant-research/AntOmniEvo",
     "prs": [
+      "[#34](https://github.com/ant-research/AntOmniEvo/pull/34) — fix(proposer): record empty artifact additions and deletions",
       "[#20](https://github.com/ant-research/AntOmniEvo/pull/20) — fix(proposer): detect degenerate Claude Code sessions before rollout"
     ]
   },
