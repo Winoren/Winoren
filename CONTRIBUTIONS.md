@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-overview-header-dark.svg?v=2026-11-22-pr139"><img src="./assets/contributions-overview-header-light.svg?v=2026-11-22-pr139" width="100%" alt="开源贡献统计"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-overview-header-dark.svg?v=2026-11-25-pr151"><img src="./assets/contributions-overview-header-light.svg?v=2026-11-25-pr151" width="100%" alt="开源贡献统计"></picture>
 <div><a href="https://github.com/openclaw/openclaw" title="打开 openclaw/openclaw 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-name-dark.svg"><img src="./assets/overview-row-01-name-light.svg" width="67.5%" alt="openclaw/openclaw"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-openclaw-openclaw" title="查看 openclaw/openclaw 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-count-dark.svg"><img src="./assets/overview-row-01-count-light.svg" width="14.5%" alt="查看 2 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-stars-dark.svg"><img src="./assets/overview-row-01-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/langgenius/dify" title="打开 langgenius/dify 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-name-dark.svg"><img src="./assets/overview-row-02-name-light.svg" width="67.5%" alt="langgenius/dify"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-langgenius-dify" title="查看 langgenius/dify 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-count-dark.svg?v=2026-11-22-pr139"><img src="./assets/overview-row-02-count-light.svg?v=2026-11-22-pr139" width="14.5%" alt="查看 39 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-stars-dark.svg"><img src="./assets/overview-row-02-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/bytedance/deer-flow" title="打开 bytedance/deer-flow 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-name-dark.svg"><img src="./assets/overview-row-03-name-light.svg" width="67.5%" alt="bytedance/deer-flow"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-bytedance-deer-flow" title="查看 bytedance/deer-flow 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-count-dark.svg"><img src="./assets/overview-row-03-count-light.svg" width="14.5%" alt="查看 7 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-stars-dark.svg"><img src="./assets/overview-row-03-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/BerriAI/litellm" title="打开 BerriAI/litellm 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-name-dark.svg"><img src="./assets/overview-row-04-name-light.svg" width="67.5%" alt="BerriAI/litellm"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-berriai-litellm" title="查看 BerriAI/litellm 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-count-dark.svg"><img src="./assets/overview-row-04-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-stars-dark.svg"><img src="./assets/overview-row-04-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/crewAIInc/crewAI" title="打开 crewAIInc/crewAI 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-name-dark.svg"><img src="./assets/overview-row-05-name-light.svg" width="67.5%" alt="crewAIInc/crewAI"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-crewaiinc-crewai" title="查看 crewAIInc/crewAI 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-count-dark.svg"><img src="./assets/overview-row-05-count-light.svg" width="14.5%" alt="查看 3 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-stars-dark.svg"><img src="./assets/overview-row-05-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
-<div><a href="https://github.com/Tencent/WeKnora" title="打开 Tencent/WeKnora 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-name-dark.svg"><img src="./assets/overview-row-06-name-light.svg" width="67.5%" alt="Tencent/WeKnora"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-weknora" title="查看 Tencent/WeKnora 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-count-dark.svg"><img src="./assets/overview-row-06-count-light.svg" width="14.5%" alt="查看 35 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-stars-dark.svg"><img src="./assets/overview-row-06-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/Tencent/WeKnora" title="打开 Tencent/WeKnora 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-name-dark.svg"><img src="./assets/overview-row-06-name-light.svg" width="67.5%" alt="Tencent/WeKnora"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-weknora" title="查看 Tencent/WeKnora 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-count-dark.svg?v=2026-11-25-pr151"><img src="./assets/overview-row-06-count-light.svg?v=2026-11-25-pr151" width="14.5%" alt="查看 38 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-stars-dark.svg"><img src="./assets/overview-row-06-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/labring/FastGPT" title="打开 labring/FastGPT 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-name-dark.svg"><img src="./assets/overview-row-07-name-light.svg" width="67.5%" alt="labring/FastGPT"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-labring-fastgpt" title="查看 labring/FastGPT 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-count-dark.svg?v=2026-11-22-pr139"><img src="./assets/overview-row-07-count-light.svg?v=2026-11-22-pr139" width="14.5%" alt="查看 9 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-stars-dark.svg"><img src="./assets/overview-row-07-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/microsoft/semantic-kernel" title="打开 microsoft/semantic-kernel 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-name-dark.svg"><img src="./assets/overview-row-08-name-light.svg" width="67.5%" alt="microsoft/semantic-kernel"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-microsoft-semantic-kernel" title="查看 microsoft/semantic-kernel 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-count-dark.svg"><img src="./assets/overview-row-08-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-stars-dark.svg"><img src="./assets/overview-row-08-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/deepset-ai/haystack" title="打开 deepset-ai/haystack 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-name-dark.svg"><img src="./assets/overview-row-09-name-light.svg" width="67.5%" alt="deepset-ai/haystack"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-deepset-ai-haystack" title="查看 deepset-ai/haystack 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-count-dark.svg"><img src="./assets/overview-row-09-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-stars-dark.svg"><img src="./assets/overview-row-09-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
@@ -21,8 +21,9 @@
 <div><a href="https://github.com/NVIDIA/NeMo-Agent-Toolkit" title="打开 NVIDIA/NeMo-Agent-Toolkit 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-20-name-dark.svg"><img src="./assets/overview-row-20-name-light.svg" width="67.5%" alt="NVIDIA/NeMo-Agent-Toolkit"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-nvidia-nemo-agent-toolkit" title="查看 NVIDIA/NeMo-Agent-Toolkit 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-20-count-dark.svg"><img src="./assets/overview-row-20-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-20-stars-dark.svg"><img src="./assets/overview-row-20-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/ant-research/AntOmniEvo" title="打开 ant-research/AntOmniEvo 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-21-name-dark.svg"><img src="./assets/overview-row-21-name-light.svg" width="67.5%" alt="ant-research/AntOmniEvo"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-ant-research-antomnievo" title="查看 ant-research/AntOmniEvo 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-21-count-dark.svg?v=2026-11-22-pr139"><img src="./assets/overview-row-21-count-light.svg?v=2026-11-22-pr139" width="14.5%" alt="查看 2 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-21-stars-dark.svg"><img src="./assets/overview-row-21-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/assafelovic/gpt-researcher" title="打开 assafelovic/gpt-researcher 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-22-name-dark.svg"><img src="./assets/overview-row-22-name-light.svg" width="67.5%" alt="assafelovic/gpt-researcher"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-assafelovic-gpt-researcher" title="查看 assafelovic/gpt-researcher 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-22-count-dark.svg"><img src="./assets/overview-row-22-count-light.svg" width="14.5%" alt="查看 2 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-22-stars-dark.svg"><img src="./assets/overview-row-22-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
-<div><a href="https://github.com/PrefectHQ/fastmcp" title="打开 PrefectHQ/fastmcp 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-name-dark.svg"><img src="./assets/overview-row-23-name-light.svg" width="67.5%" alt="PrefectHQ/fastmcp"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-prefecthq-fastmcp" title="查看 PrefectHQ/fastmcp 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-count-dark.svg"><img src="./assets/overview-row-23-count-light.svg" width="14.5%" alt="查看 3 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-stars-dark.svg"><img src="./assets/overview-row-23-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/PrefectHQ/fastmcp" title="打开 PrefectHQ/fastmcp 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-name-dark.svg"><img src="./assets/overview-row-23-name-light.svg" width="67.5%" alt="PrefectHQ/fastmcp"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-prefecthq-fastmcp" title="查看 PrefectHQ/fastmcp 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-count-dark.svg?v=2026-11-25-pr151"><img src="./assets/overview-row-23-count-light.svg?v=2026-11-25-pr151" width="14.5%" alt="查看 4 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-23-stars-dark.svg"><img src="./assets/overview-row-23-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/Tencent/BrowserSkill" title="打开 Tencent/BrowserSkill 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-24-name-dark.svg"><img src="./assets/overview-row-24-name-light.svg" width="67.5%" alt="Tencent/BrowserSkill"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-browserskill" title="查看 Tencent/BrowserSkill 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-24-count-dark.svg"><img src="./assets/overview-row-24-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-24-stars-dark.svg"><img src="./assets/overview-row-24-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/agentscope-ai/agentscope" title="打开 agentscope-ai/agentscope 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-25-name-dark.svg"><img src="./assets/overview-row-25-name-light.svg" width="67.5%" alt="agentscope-ai/agentscope"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-agentscope-ai-agentscope" title="查看 agentscope-ai/agentscope 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-25-count-dark.svg"><img src="./assets/overview-row-25-count-light.svg" width="14.5%" alt="查看 8 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-25-stars-dark.svg"><img src="./assets/overview-row-25-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-detail-dark.svg">
@@ -322,9 +323,21 @@
 <a name="pr-tencent-weknora"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-07-dark.svg">
-  <img src="./assets/contribution-project-07-light.svg" width="100%" alt="Tencent/WeKnora · 35 个 PR">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-07-dark.svg?v=2026-11-25-pr151">
+  <img src="./assets/contribution-project-07-light.svg?v=2026-11-25-pr151" width="100%" alt="Tencent/WeKnora · 38 个 PR">
 </picture>
+
+> **[#5833](https://github.com/Tencent/WeKnora/pull/5833)**
+>
+> fix(anydoc): update zip to 9.0.5
+
+> **[#5823](https://github.com/Tencent/WeKnora/pull/5823)**
+>
+> fix(query-understand): preserve escaped backslashes during JSON recovery
+
+> **[#5818](https://github.com/Tencent/WeKnora/pull/5818)**
+>
+> fix(agent): abort context compaction when the turn is canceled
 
 > **[#5556](https://github.com/Tencent/WeKnora/pull/5556)**
 >
@@ -738,9 +751,13 @@
 <a name="pr-prefecthq-fastmcp"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-23-dark.svg">
-  <img src="./assets/contribution-project-23-light.svg" width="100%" alt="PrefectHQ/fastmcp · 3 个 PR">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-23-dark.svg?v=2026-11-25-pr151">
+  <img src="./assets/contribution-project-23-light.svg?v=2026-11-25-pr151" width="100%" alt="PrefectHQ/fastmcp · 4 个 PR">
 </picture>
+
+> **[#5745](https://github.com/PrefectHQ/fastmcp/pull/5745)**
+>
+> fix(auth): render the registration and discovery endpoints on the unregistered-client page
 
 > **[#5798](https://github.com/PrefectHQ/fastmcp/pull/5798)**
 >
@@ -764,3 +781,42 @@
 > **[#746](https://github.com/Tencent/BrowserSkill/pull/746)**
 >
 > fix(vom): handle unpaired surrogates in token estimates
+
+<a name="pr-agentscope-ai-agentscope"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-25-dark.svg">
+  <img src="./assets/contribution-project-25-light.svg" width="100%" alt="agentscope-ai/agentscope · 8 个 PR">
+</picture>
+
+> **[#4240](https://github.com/agentscope-ai/agentscope/pull/4240)**
+>
+> fix(rag): cancel sibling knowledge-base searches
+
+> **[#4238](https://github.com/agentscope-ai/agentscope/pull/4238)**
+>
+> perf(rag): avoid per-character offsets when chunking UTF-8
+
+> **[#4236](https://github.com/agentscope-ai/agentscope/pull/4236)**
+>
+> fix(rag): skip pictures removed by Word tracked changes
+
+> **[#4234](https://github.com/agentscope-ai/agentscope/pull/4234)**
+>
+> fix(embedding): reject mismatched Ollama batch responses
+
+> **[#4188](https://github.com/agentscope-ai/agentscope/pull/4188)**
+>
+> perf(asr): retain only the latest dashscope partial transcript
+
+> **[#4201](https://github.com/agentscope-ai/agentscope/pull/4201)**
+>
+> fix(tts): reject sse transport for raw openai audio
+
+> **[#4196](https://github.com/agentscope-ai/agentscope/pull/4196)**
+>
+> fix(tts): parse gemini audio mime parameters correctly
+
+> **[#4194](https://github.com/agentscope-ai/agentscope/pull/4194)**
+>
+> fix(tts): run dashscope synthesis once when retries are disabled

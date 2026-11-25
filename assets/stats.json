@@ -1,6 +1,6 @@
 {
-  "total": 139,
-  "repo_count": 23,
+  "total": 151,
+  "repo_count": 24,
   "repos": [
     {
       "name": "openclaw/openclaw",
@@ -41,7 +41,7 @@
       "name": "Tencent/WeKnora",
       "stars": 36004,
       "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
-      "count": 35,
+      "count": 38,
       "adopted": 0
     },
     {
@@ -160,7 +160,7 @@
       "avatar": "https://avatars.githubusercontent.com/u/39270919?v=4",
       "name": "PrefectHQ/fastmcp",
       "stars": 28400,
-      "count": 3,
+      "count": 4,
       "adopted": 0
     },
     {
@@ -169,9 +169,64 @@
       "adopted": 0,
       "stars": 10488,
       "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4"
+    },
+    {
+      "avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
+      "name": "agentscope-ai/agentscope",
+      "stars": 36695,
+      "count": 8,
+      "adopted": 0
     }
   ],
   "prs": [
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4240",
+      "merged_at": "2026-11-24T06:11:15Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4238",
+      "merged_at": "2026-11-24T04:21:54Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4236",
+      "merged_at": "2026-11-24T04:21:25Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4234",
+      "merged_at": "2026-11-24T03:44:54Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4188",
+      "merged_at": "2026-11-23T08:32:58Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4201",
+      "merged_at": "2026-11-23T07:36:21Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4196",
+      "merged_at": "2026-11-23T07:28:36Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5833",
+      "merged_at": "2026-11-23T03:59:06Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5823",
+      "merged_at": "2026-11-23T03:21:29Z"
+    },
+    {
+      "html_url": "https://github.com/Tencent/WeKnora/pull/5818",
+      "merged_at": "2026-11-23T03:20:46Z"
+    },
+    {
+      "html_url": "https://github.com/agentscope-ai/agentscope/pull/4194",
+      "merged_at": "2026-11-23T03:12:00Z"
+    },
+    {
+      "html_url": "https://github.com/PrefectHQ/fastmcp/pull/5745",
+      "merged_at": "2026-11-22T19:10:37Z"
+    },
     {
       "html_url": "https://github.com/labring/FastGPT/pull/8423",
       "merged_at": "2026-11-21T11:10:32Z"

@@ -100,6 +100,9 @@
     "name": "Tencent/WeKnora",
     "url": "https://github.com/Tencent/WeKnora",
     "prs": [
+      "[#5833](https://github.com/Tencent/WeKnora/pull/5833) — fix(anydoc): update zip to 9.0.5",
+      "[#5823](https://github.com/Tencent/WeKnora/pull/5823) — fix(query-understand): preserve escaped backslashes during JSON recovery",
+      "[#5818](https://github.com/Tencent/WeKnora/pull/5818) — fix(agent): abort context compaction when the turn is canceled",
       "[#5556](https://github.com/Tencent/WeKnora/pull/5556) — fix(rss): normalize custom feed header names",
       "[#5555](https://github.com/Tencent/WeKnora/pull/5555) — fix(feishu): encode Wiki pagination tokens",
       "[#5552](https://github.com/Tencent/WeKnora/pull/5552) — fix(notion): preserve parenthesized Markdown link URLs",
@@ -272,6 +275,7 @@
     "name": "PrefectHQ/fastmcp",
     "url": "https://github.com/PrefectHQ/fastmcp",
     "prs": [
+      "[#5745](https://github.com/PrefectHQ/fastmcp/pull/5745) — fix(auth): render the registration and discovery endpoints on the unregistered-client page",
       "[#5798](https://github.com/PrefectHQ/fastmcp/pull/5798) — Roll back the tool stamp when a tool registration is rejected",
       "[#5793](https://github.com/PrefectHQ/fastmcp/pull/5793) — Keep task config and execution on transformed tools",
       "[#5715](https://github.com/PrefectHQ/fastmcp/pull/5715) — Honor Code Mode search limits after BM25 ranking"
@@ -281,6 +285,19 @@
     "name": "Tencent/BrowserSkill",
     "prs": [
       "[#746](https://github.com/Tencent/BrowserSkill/pull/746) — fix(vom): handle unpaired surrogates in token estimates"
+    ]
+  },
+  {
+    "name": "agentscope-ai/agentscope",
+    "prs": [
+      "[#4240](https://github.com/agentscope-ai/agentscope/pull/4240) — fix(rag): cancel sibling knowledge-base searches",
+      "[#4238](https://github.com/agentscope-ai/agentscope/pull/4238) — perf(rag): avoid per-character offsets when chunking UTF-8",
+      "[#4236](https://github.com/agentscope-ai/agentscope/pull/4236) — fix(rag): skip pictures removed by Word tracked changes",
+      "[#4234](https://github.com/agentscope-ai/agentscope/pull/4234) — fix(embedding): reject mismatched Ollama batch responses",
+      "[#4188](https://github.com/agentscope-ai/agentscope/pull/4188) — perf(asr): retain only the latest dashscope partial transcript",
+      "[#4201](https://github.com/agentscope-ai/agentscope/pull/4201) — fix(tts): reject sse transport for raw openai audio",
+      "[#4196](https://github.com/agentscope-ai/agentscope/pull/4196) — fix(tts): parse gemini audio mime parameters correctly",
+      "[#4194](https://github.com/agentscope-ai/agentscope/pull/4194) — fix(tts): run dashscope synthesis once when retries are disabled"
     ]
   }
 ]
