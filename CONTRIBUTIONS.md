@@ -1,10 +1,10 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-overview-header-dark.svg?v=2026-11-25-pr151"><img src="./assets/contributions-overview-header-light.svg?v=2026-11-25-pr151" width="100%" alt="开源贡献统计"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/contributions-overview-header-dark.svg?v=2026-11-27-pr184"><img src="./assets/contributions-overview-header-light.svg?v=2026-11-27-pr184" width="100%" alt="开源贡献统计"></picture>
 <div><a href="https://github.com/openclaw/openclaw" title="打开 openclaw/openclaw 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-name-dark.svg"><img src="./assets/overview-row-01-name-light.svg" width="67.5%" alt="openclaw/openclaw"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-openclaw-openclaw" title="查看 openclaw/openclaw 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-count-dark.svg"><img src="./assets/overview-row-01-count-light.svg" width="14.5%" alt="查看 2 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-01-stars-dark.svg"><img src="./assets/overview-row-01-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/langgenius/dify" title="打开 langgenius/dify 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-name-dark.svg"><img src="./assets/overview-row-02-name-light.svg" width="67.5%" alt="langgenius/dify"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-langgenius-dify" title="查看 langgenius/dify 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-count-dark.svg?v=2026-11-22-pr139"><img src="./assets/overview-row-02-count-light.svg?v=2026-11-22-pr139" width="14.5%" alt="查看 39 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-02-stars-dark.svg"><img src="./assets/overview-row-02-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/bytedance/deer-flow" title="打开 bytedance/deer-flow 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-name-dark.svg"><img src="./assets/overview-row-03-name-light.svg" width="67.5%" alt="bytedance/deer-flow"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-bytedance-deer-flow" title="查看 bytedance/deer-flow 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-count-dark.svg"><img src="./assets/overview-row-03-count-light.svg" width="14.5%" alt="查看 7 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-03-stars-dark.svg"><img src="./assets/overview-row-03-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/BerriAI/litellm" title="打开 BerriAI/litellm 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-name-dark.svg"><img src="./assets/overview-row-04-name-light.svg" width="67.5%" alt="BerriAI/litellm"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-berriai-litellm" title="查看 BerriAI/litellm 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-count-dark.svg"><img src="./assets/overview-row-04-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-04-stars-dark.svg"><img src="./assets/overview-row-04-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/crewAIInc/crewAI" title="打开 crewAIInc/crewAI 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-name-dark.svg"><img src="./assets/overview-row-05-name-light.svg" width="67.5%" alt="crewAIInc/crewAI"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-crewaiinc-crewai" title="查看 crewAIInc/crewAI 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-count-dark.svg"><img src="./assets/overview-row-05-count-light.svg" width="14.5%" alt="查看 3 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-05-stars-dark.svg"><img src="./assets/overview-row-05-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
-<div><a href="https://github.com/Tencent/WeKnora" title="打开 Tencent/WeKnora 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-name-dark.svg"><img src="./assets/overview-row-06-name-light.svg" width="67.5%" alt="Tencent/WeKnora"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-weknora" title="查看 Tencent/WeKnora 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-count-dark.svg?v=2026-11-25-pr151"><img src="./assets/overview-row-06-count-light.svg?v=2026-11-25-pr151" width="14.5%" alt="查看 38 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-stars-dark.svg"><img src="./assets/overview-row-06-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
+<div><a href="https://github.com/Tencent/WeKnora" title="打开 Tencent/WeKnora 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-name-dark.svg"><img src="./assets/overview-row-06-name-light.svg" width="67.5%" alt="Tencent/WeKnora"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-tencent-weknora" title="查看 Tencent/WeKnora 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-count-dark.svg?v=2026-11-27-pr184"><img src="./assets/overview-row-06-count-light.svg?v=2026-11-27-pr184" width="14.5%" alt="查看 71 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-06-stars-dark.svg"><img src="./assets/overview-row-06-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/labring/FastGPT" title="打开 labring/FastGPT 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-name-dark.svg"><img src="./assets/overview-row-07-name-light.svg" width="67.5%" alt="labring/FastGPT"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-labring-fastgpt" title="查看 labring/FastGPT 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-count-dark.svg?v=2026-11-22-pr139"><img src="./assets/overview-row-07-count-light.svg?v=2026-11-22-pr139" width="14.5%" alt="查看 9 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-07-stars-dark.svg"><img src="./assets/overview-row-07-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/microsoft/semantic-kernel" title="打开 microsoft/semantic-kernel 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-name-dark.svg"><img src="./assets/overview-row-08-name-light.svg" width="67.5%" alt="microsoft/semantic-kernel"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-microsoft-semantic-kernel" title="查看 microsoft/semantic-kernel 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-count-dark.svg"><img src="./assets/overview-row-08-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-08-stars-dark.svg"><img src="./assets/overview-row-08-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
 <div><a href="https://github.com/deepset-ai/haystack" title="打开 deepset-ai/haystack 项目仓库"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-name-dark.svg"><img src="./assets/overview-row-09-name-light.svg" width="67.5%" alt="deepset-ai/haystack"></picture></a><a href="https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#pr-deepset-ai-haystack" title="查看 deepset-ai/haystack 的 PR 明细"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-count-dark.svg"><img src="./assets/overview-row-09-count-light.svg" width="14.5%" alt="查看 1 个 PR"></picture></a><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/overview-row-09-stars-dark.svg"><img src="./assets/overview-row-09-stars-light.svg" width="17.9%" alt="Star 数"></picture></div>
@@ -323,21 +323,97 @@
 <a name="pr-tencent-weknora"></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-07-dark.svg?v=2026-11-25-pr151">
-  <img src="./assets/contribution-project-07-light.svg?v=2026-11-25-pr151" width="100%" alt="Tencent/WeKnora · 38 个 PR">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/contribution-project-07-dark.svg?v=2026-11-27-pr184">
+  <img src="./assets/contribution-project-07-light.svg?v=2026-11-27-pr184" width="100%" alt="Tencent/WeKnora · 71 个 PR">
 </picture>
+
+> **[#5886](https://github.com/Tencent/WeKnora/pull/5886)**
+>
+> fix(datasource): ignore stale sync log responses
+
+> **[#5883](https://github.com/Tencent/WeKnora/pull/5883)**
+>
+> fix(agent): align empty MCP mode with runtime
+
+> **[#5875](https://github.com/Tencent/WeKnora/pull/5875)**
+>
+> fix(memory): reject unusable embedding vectors
+
+> **[#5869](https://github.com/Tencent/WeKnora/pull/5869)**
+>
+> fix(attachments): budget duplicate document IDs once
+
+> **[#5863](https://github.com/Tencent/WeKnora/pull/5863)**
+>
+> perf(docreader): avoid rescanning PDF source end offsets
+
+> **[#5862](https://github.com/Tencent/WeKnora/pull/5862)**
+>
+> fix(docreader): preserve literal text when expanding XLSX merges
 
 > **[#5833](https://github.com/Tencent/WeKnora/pull/5833)**
 >
 > fix(anydoc): update zip to 9.0.5
 
+> **[#5827](https://github.com/Tencent/WeKnora/pull/5827)**
+>
+> fix(docparser): stabilize JSON chunk order for equal numeric keys
+
+> **[#5826](https://github.com/Tencent/WeKnora/pull/5826)**
+>
+> perf(chunker): avoid retaining lines during document profiling
+
+> **[#5825](https://github.com/Tencent/WeKnora/pull/5825)**
+>
+> fix(search): preserve image evidence during parent slot aggregation
+
+> **[#5824](https://github.com/Tencent/WeKnora/pull/5824)**
+>
+> perf(agent): avoid indexing old cut points during compaction
+
 > **[#5823](https://github.com/Tencent/WeKnora/pull/5823)**
 >
 > fix(query-understand): preserve escaped backslashes during JSON recovery
 
+> **[#5819](https://github.com/Tencent/WeKnora/pull/5819)**
+>
+> fix(im): preserve Redis QA queue reservation ownership
+
 > **[#5818](https://github.com/Tencent/WeKnora/pull/5818)**
 >
 > fix(agent): abort context compaction when the turn is canceled
+
+> **[#5816](https://github.com/Tencent/WeKnora/pull/5816)**
+>
+> perf(models): reduce copying in streamed tool calls and file progress
+
+> **[#5815](https://github.com/Tencent/WeKnora/pull/5815)**
+>
+> perf(rerank): stop decoding at the passage limit
+
+> **[#5814](https://github.com/Tencent/WeKnora/pull/5814)**
+>
+> perf(search): bound rune decoding for chunk boundary joins
+
+> **[#5813](https://github.com/Tencent/WeKnora/pull/5813)**
+>
+> fix(storageurl): retain storage schemes split across stream deltas
+
+> **[#5812](https://github.com/Tencent/WeKnora/pull/5812)**
+>
+> perf(wiki): bound text decoding when extracting search snippets
+
+> **[#5811](https://github.com/Tencent/WeKnora/pull/5811)**
+>
+> fix(reranking): exclude empty passages before candidate budgeting
+
+> **[#5810](https://github.com/Tencent/WeKnora/pull/5810)**
+>
+> fix(agent): stop reading canceled provider streams
+
+> **[#5809](https://github.com/Tencent/WeKnora/pull/5809)**
+>
+> perf(agent): avoid copying accumulated streaming text
 
 > **[#5556](https://github.com/Tencent/WeKnora/pull/5556)**
 >
@@ -347,42 +423,6 @@
 >
 > fix(feishu): encode Wiki pagination tokens
 
-> **[#5552](https://github.com/Tencent/WeKnora/pull/5552)**
->
-> fix(notion): preserve parenthesized Markdown link URLs
-
-> **[#5551](https://github.com/Tencent/WeKnora/pull/5551)**
->
-> fix(notion): preserve backticks in inline code
-
-> **[#5549](https://github.com/Tencent/WeKnora/pull/5549)**
->
-> fix(notion): encode block pagination cursors
-
-> **[#5546](https://github.com/Tencent/WeKnora/pull/5546)**
->
-> fix(yuque): bound TOC ancestor traversal by depth
-
-> **[#5544](https://github.com/Tencent/WeKnora/pull/5544)**
->
-> fix(yuque): preserve Markdown that starts with custom HTML elements
-
-> **[#5541](https://github.com/Tencent/WeKnora/pull/5541)**
->
-> fix(yuque): honor HTTP dates in Retry-After
-
-> **[#5434](https://github.com/Tencent/WeKnora/pull/5434)**
->
-> fix(rss): preserve plain text in JSON feed imports
-
-> **[#5448](https://github.com/Tencent/WeKnora/pull/5448)**
->
-> fix(docreader): preserve inline base64 image examples
-
-> **[#5542](https://github.com/Tencent/WeKnora/pull/5542)**
->
-> test(yuque): keep custom base URL validation offline
-
 > **[#5554](https://github.com/Tencent/WeKnora/pull/5554)**
 >
 > fix(feishu): reject incomplete Drive pagination without a token
@@ -391,25 +431,113 @@
 >
 > fix(feishu): reject incomplete Wiki pagination without a token
 
-> **[#5548](https://github.com/Tencent/WeKnora/pull/5548)**
+> **[#5552](https://github.com/Tencent/WeKnora/pull/5552)**
 >
-> fix(notion): reject search pages missing a continuation cursor
+> fix(notion): preserve parenthesized Markdown link URLs
+
+> **[#5551](https://github.com/Tencent/WeKnora/pull/5551)**
+>
+> fix(notion): preserve backticks in inline code
 
 > **[#5550](https://github.com/Tencent/WeKnora/pull/5550)**
 >
 > test(notion): keep attachment SSRF validation offline
 
+> **[#5549](https://github.com/Tencent/WeKnora/pull/5549)**
+>
+> fix(notion): encode block pagination cursors
+
+> **[#5548](https://github.com/Tencent/WeKnora/pull/5548)**
+>
+> fix(notion): reject search pages missing a continuation cursor
+
+> **[#5546](https://github.com/Tencent/WeKnora/pull/5546)**
+>
+> fix(yuque): bound TOC ancestor traversal by depth
+
 > **[#5545](https://github.com/Tencent/WeKnora/pull/5545)**
 >
 > fix(yuque): reject repeated final document pages
+
+> **[#5544](https://github.com/Tencent/WeKnora/pull/5544)**
+>
+> fix(yuque): preserve Markdown that starts with custom HTML elements
+
+> **[#5542](https://github.com/Tencent/WeKnora/pull/5542)**
+>
+> test(yuque): keep custom base URL validation offline
+
+> **[#5541](https://github.com/Tencent/WeKnora/pull/5541)**
+>
+> fix(yuque): honor HTTP dates in Retry-After
+
+> **[#5540](https://github.com/Tencent/WeKnora/pull/5540)**
+>
+> fix(docreader): match MHTML CID schemes case-insensitively
+
+> **[#5539](https://github.com/Tencent/WeKnora/pull/5539)**
+>
+> fix(docreader): order numbered chapters in the EPUB ZIP fallback
 
 > **[#5536](https://github.com/Tencent/WeKnora/pull/5536)**
 >
 > fix(ci): pin DocReader tests to Ubuntu 24.04
 
+> **[#5532](https://github.com/Tencent/WeKnora/pull/5532)**
+>
+> fix(docreader): recover MHTML images with invalid content locations
+
+> **[#5524](https://github.com/Tencent/WeKnora/pull/5524)**
+>
+> fix(docreader): retain vertical merges in converted DOC tables
+
+> **[#5523](https://github.com/Tencent/WeKnora/pull/5523)**
+>
+> fix(docreader): escape table cell pipes in EPUB chapters
+
+> **[#5495](https://github.com/Tencent/WeKnora/pull/5495)**
+>
+> fix(docreader): preserve TIFF and SVG image MIME types
+
+> **[#5490](https://github.com/Tencent/WeKnora/pull/5490)**
+>
+> fix(docreader): convert legacy PPT bytes mislabeled as PPTX
+
+> **[#5464](https://github.com/Tencent/WeKnora/pull/5464)**
+>
+> fix(docreader): preserve image references in EPUB SVG wrappers
+
+> **[#5448](https://github.com/Tencent/WeKnora/pull/5448)**
+>
+> fix(docreader): preserve inline base64 image examples
+
+> **[#5434](https://github.com/Tencent/WeKnora/pull/5434)**
+>
+> fix(rss): preserve plain text in JSON feed imports
+
+> **[#5392](https://github.com/Tencent/WeKnora/pull/5392)**
+>
+> fix(docreader): escape CSV fields in MarkItDown output
+
+> **[#5391](https://github.com/Tencent/WeKnora/pull/5391)**
+>
+> fix(docreader): keep image filenames from breaking Markdown
+
+> **[#5390](https://github.com/Tencent/WeKnora/pull/5390)**
+>
+> fix(docreader): preserve body order in terminal DOCX fallback
+
+> **[#5336](https://github.com/Tencent/WeKnora/pull/5336)**
+>
+> fix(docreader): resolve archived images against the HTML base URL
+
 > **[#5147](https://github.com/Tencent/WeKnora/pull/5147)**
 >
 > fix(docreader): preserve omitted DOCX table columns
+
+> **[#5145](https://github.com/Tencent/WeKnora/pull/5145)**
+>
+> fix(docreader): release executor inputs before memory cleanup
 
 > **[#5122](https://github.com/Tencent/WeKnora/pull/5122)**
 >
@@ -434,6 +562,10 @@
 > **[#4997](https://github.com/Tencent/WeKnora/pull/4997)**
 >
 > fix(docreader): round percentage display ties away from zero
+
+> **[#4996](https://github.com/Tencent/WeKnora/pull/4996)**
+>
+> fix(docreader): preserve notes on untitled XMind topics
 
 > **[#4939](https://github.com/Tencent/WeKnora/pull/4939)**
 >
