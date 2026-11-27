@@ -37,9 +37,9 @@ for theme in ['light','dark']:
 
 def overview(source,count,exclude=()):
     rows=[picture(source+'-header','开源贡献统计')]
-    for i,repo in enumerate(STATS['repos'][:count]):
-        if repo['name'] in exclude:
-            continue
+    projects = ((i, repo) for i, repo in enumerate(STATS['repos']) if repo['name'] not in exclude)
+    ranked = sorted(projects, key=lambda item: item[1]['stars'], reverse=True)
+    for i, repo in ranked[:count]:
         stem=f'overview-row-{i+1:02}'
         url='https://github.com/Winoren/Winoren/blob/main/CONTRIBUTIONS.md#'+anchor(repo['name'])
         row=f'<a href="https://github.com/{repo["name"]}" title="打开 {escape(repo["name"],quote=True)} 项目仓库">'+picture(stem+'-name',repo['name'],'67.5%')+'</a>'
@@ -52,7 +52,7 @@ p=ROOT/'README.md'
 s=p.read_text()
 a=s.index('<picture>',s.index('</picture>')+len('</picture>'))
 b=s.index('[查看 PR 明细]')
-p.write_text(s[:a]+overview('merged-prs',8,PROFILE_HIDDEN_REPOS)+'\n\n'+s[b:])
+p.write_text(s[:a]+overview('merged-prs',7,PROFILE_HIDDEN_REPOS)+'\n\n'+s[b:])
 p=ROOT/'CONTRIBUTIONS.md'
 s=p.read_text()
 b=re.search(r'<picture>\s*<source[^>]+contributions-detail-dark.svg',s).start()

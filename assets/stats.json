@@ -4,42 +4,42 @@
   "repos": [
     {
       "name": "openclaw/openclaw",
-      "stars": 393419,
+      "stars": 395318,
       "avatar": "https://avatars.githubusercontent.com/u/252820863?v=4",
       "count": 0,
       "adopted": 2
     },
     {
       "name": "langgenius/dify",
-      "stars": 159976,
+      "stars": 161988,
       "avatar": "https://avatars.githubusercontent.com/u/127165244?v=4",
       "count": 39,
       "adopted": 0
     },
     {
       "name": "bytedance/deer-flow",
-      "stars": 84710,
+      "stars": 85866,
       "avatar": "https://avatars.githubusercontent.com/u/4158466?v=4",
       "count": 7,
       "adopted": 0
     },
     {
       "name": "BerriAI/litellm",
-      "stars": 62358,
+      "stars": 64000,
       "avatar": "https://avatars.githubusercontent.com/u/121462774?v=4",
       "count": 1,
       "adopted": 0
     },
     {
       "name": "crewAIInc/crewAI",
-      "stars": 60282,
+      "stars": 61317,
       "avatar": "https://avatars.githubusercontent.com/u/170677839?v=4",
       "count": 3,
       "adopted": 0
     },
     {
       "name": "Tencent/WeKnora",
-      "stars": 36004,
+      "stars": 38339,
       "avatar": "https://avatars.githubusercontent.com/u/18461506?v=4",
       "count": 71,
       "adopted": 0
@@ -173,7 +173,7 @@
     {
       "avatar": "https://avatars.githubusercontent.com/u/211762292?v=4",
       "name": "agentscope-ai/agentscope",
-      "stars": 36695,
+      "stars": 36795,
       "count": 8,
       "adopted": 0
     }
